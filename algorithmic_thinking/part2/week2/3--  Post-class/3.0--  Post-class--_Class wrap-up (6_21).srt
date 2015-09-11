@@ -1,0 +1,717 @@
+1
+00:00:01,310 --> 00:00:05,390
+So I want to thank you, for taking the
+algorithmic think thinking course with us,
+
+2
+00:00:05,390 --> 00:00:09,830
+you know Joe, Scott and I are all very
+happy to have had you in the course, and
+
+3
+00:00:09,830 --> 00:00:13,320
+we hope that you learned interesting stuff
+from the course, we truly believe in
+
+4
+00:00:13,320 --> 00:00:17,170
+the significance and the importance of
+the material we delivered in this course.
+
+5
+00:00:17,170 --> 00:00:20,910
+As we had mentioned, we had offered
+this course at Rice University for
+
+6
+00:00:20,910 --> 00:00:24,190
+four years now, and
+it has been very successful.
+
+7
+00:00:24,190 --> 00:00:26,350
+We offered you a version
+of that course here and
+
+8
+00:00:26,350 --> 00:00:28,930
+we hope that you also got
+the same type of material and
+
+9
+00:00:28,930 --> 00:00:33,030
+the same type of experience,
+that we also offered to Rice students.
+
+10
+00:00:33,030 --> 00:00:35,370
+And I want to summarize
+briefly what we have,
+
+11
+00:00:35,370 --> 00:00:38,580
+what is this process of algorithmic
+thinking, that we have been following.
+
+12
+00:00:38,580 --> 00:00:41,590
+And what is it that we have
+done throughout this course.
+
+13
+00:00:41,590 --> 00:00:45,520
+And as a reminder, you know, I defined
+algorithmic thinking from the beginning of
+
+14
+00:00:45,520 --> 00:00:48,640
+the course, as a five step process.
+
+15
+00:00:48,640 --> 00:00:52,520
+And that five step process, is really
+motivated by the way I look at research
+
+16
+00:00:52,520 --> 00:00:56,590
+and the, the, my research involving,
+domains outside computer science.
+
+17
+00:00:56,590 --> 00:00:58,600
+In particular biology.
+
+18
+00:00:58,600 --> 00:01:01,750
+So the first step in the problems
+when I'm dealing with a biologist or
+
+19
+00:01:01,750 --> 00:01:04,260
+when I'm working on
+a problem from biology.
+
+20
+00:01:04,260 --> 00:01:06,010
+Is to understand the problem.
+
+21
+00:01:06,010 --> 00:01:09,460
+What is it that,
+what is that the biologists wants from me?
+
+22
+00:01:09,460 --> 00:01:11,600
+What is that input,
+that they're going to provide me.
+
+23
+00:01:11,600 --> 00:01:13,770
+Are they going to give me DNA sequences?
+
+24
+00:01:13,770 --> 00:01:16,040
+Are they going to give
+me homgeno sequences?
+
+25
+00:01:16,040 --> 00:01:19,250
+Are they going to give me some
+information about gene expression?
+
+26
+00:01:19,250 --> 00:01:21,780
+Are they going to give me
+a interaction network?
+
+27
+00:01:21,780 --> 00:01:25,470
+So what is it that they are going to give
+me, and what is it that they want from me?
+
+28
+00:01:25,470 --> 00:01:28,200
+One, the first,
+when I understand all these details,
+
+29
+00:01:28,200 --> 00:01:32,060
+what is it that they want to give,
+what is it that they want to, to get back?
+
+30
+00:01:32,060 --> 00:01:36,000
+Now I formulate the problem, and this
+is where math, comes into the picture.
+
+31
+00:01:36,000 --> 00:01:38,970
+The formulation, the problem formulation,
+which is the second step in
+
+32
+00:01:38,970 --> 00:01:42,980
+algorithmic thinking, is really
+mathematics, more than algorithms.
+
+33
+00:01:42,980 --> 00:01:45,140
+Here we have to use our skills,
+
+34
+00:01:45,140 --> 00:01:48,330
+in mathematics to represent
+the problem cleanly.
+
+35
+00:01:48,330 --> 00:01:53,700
+For example, if the biologist has
+given me DNA sequences, I have to say,
+
+36
+00:01:53,700 --> 00:01:57,490
+that these sequences can be best
+represented as strings, right, which
+
+37
+00:01:57,490 --> 00:02:01,340
+are basically mathematical structures,
+that we have talked about, okay?
+
+38
+00:02:01,340 --> 00:02:03,370
+We will present these as strings.
+
+39
+00:02:03,370 --> 00:02:06,980
+I have to define some sort of
+a mathematical criterion that says,
+
+40
+00:02:06,980 --> 00:02:11,030
+what are the, the constraints on these
+strings to make them DNA strings,
+
+41
+00:02:11,030 --> 00:02:14,630
+what are the constraints on the output,
+in terms of what the biologist wants,
+
+42
+00:02:14,630 --> 00:02:18,690
+as a feasible solution, and
+what is an optimal criterion.
+
+43
+00:02:18,690 --> 00:02:23,600
+If a biologist wants a good, solution,
+what makes a solution good, right?
+
+44
+00:02:23,600 --> 00:02:27,350
+We have to define that mathematically,
+so that an algorithm can run,
+
+45
+00:02:28,380 --> 00:02:33,490
+on the on a space of possible candidates
+and find the good solution okay?
+
+46
+00:02:33,490 --> 00:02:35,375
+So first step understand the problem.
+
+47
+00:02:35,375 --> 00:02:39,250
+Second is formulated mathematically
+in terms of input and output.
+
+48
+00:02:39,250 --> 00:02:42,420
+The third thing,
+we come up with an algorithm, okay?
+
+49
+00:02:42,420 --> 00:02:44,260
+Once we come up with algorithm,
+
+50
+00:02:44,260 --> 00:02:47,300
+we have seen some algorithmic
+strategies in the course.
+
+51
+00:02:47,300 --> 00:02:48,790
+Including divide and conquer.
+
+52
+00:02:48,790 --> 00:02:52,310
+Including dynamic programming,
+we have seen graph exploration and so on.
+
+53
+00:02:52,310 --> 00:02:56,560
+Of course there's brute force, but
+we have seen that brute force is not,
+
+54
+00:02:56,560 --> 00:03:00,100
+the most interesting or
+the most feasible thing in most scenarios.
+
+55
+00:03:00,100 --> 00:03:02,870
+So the third step, we are interested
+in coming up with an algorithm.
+
+56
+00:03:03,890 --> 00:03:06,190
+We can,
+the first thing that we think about,
+
+57
+00:03:06,190 --> 00:03:09,790
+is, okay what algorithmic
+strategies are out there.
+
+58
+00:03:09,790 --> 00:03:11,680
+Are, is the problem we are dealing win,
+I mean,
+
+59
+00:03:11,680 --> 00:03:14,600
+with amenable to some of these strategies,
+or
+
+60
+00:03:14,600 --> 00:03:18,720
+do we need to come up with a new algorithm
+or a new strategy to solve the problem.
+
+61
+00:03:18,720 --> 00:03:21,920
+And this usually one of the most
+challenging steps in algorithmic thinking,
+
+62
+00:03:21,920 --> 00:03:23,580
+because coming up with an algorithm for
+
+63
+00:03:23,580 --> 00:03:26,900
+a problem from scratch,
+is not a trivial task.
+
+64
+00:03:26,900 --> 00:03:27,480
+Okay?
+
+65
+00:03:27,480 --> 00:03:30,990
+So, we have see,
+some of algorithmic techniques.
+
+66
+00:03:30,990 --> 00:03:34,420
+But beyond this course,
+there are many more advanced courses.
+
+67
+00:03:34,420 --> 00:03:38,460
+Whether they're like traditionally
+combinatorial, algorithms, or
+
+68
+00:03:38,460 --> 00:03:43,280
+more modern algorithms that deal with
+statistical inference problems, and so.
+
+69
+00:03:43,280 --> 00:03:47,350
+There are lots of courses out there,
+that we highly recommend that you take and
+
+70
+00:03:47,350 --> 00:03:51,620
+explore algorithms, beyond what you
+have seen in algorithmic thinking.
+
+71
+00:03:51,620 --> 00:03:53,030
+Once we come up with an algorithm.
+
+72
+00:03:54,070 --> 00:03:57,650
+We make sure it is correct, we analyze its
+correctness, we analyze its efficiency.
+
+73
+00:03:57,650 --> 00:04:02,070
+We have talked about, running time and
+asymptotics to make sure that we can,
+
+74
+00:04:02,070 --> 00:04:05,770
+reason about how efficient
+an algorithm is before we even move to
+
+75
+00:04:05,770 --> 00:04:09,750
+the implementation fees, because as
+we have discussed in this course,
+
+76
+00:04:09,750 --> 00:04:12,530
+if the running time of an algorithm grows.
+
+77
+00:04:12,530 --> 00:04:16,380
+A symptotic like two to the N,
+where N is the input size, and
+
+78
+00:04:16,380 --> 00:04:19,890
+you know that the size of the input is
+going to be on the order of thousands or
+
+79
+00:04:19,890 --> 00:04:23,400
+tens of thousands, you know that that
+algorithm is not going to be worth,
+
+80
+00:04:23,400 --> 00:04:27,750
+implementing because it's going to,
+be unfeasible in practice.
+
+81
+00:04:27,750 --> 00:04:30,650
+So, once we have come up with
+an algorithm, reasoned about it's
+
+82
+00:04:30,650 --> 00:04:35,190
+efficiency and correctness, the fourth
+step is implementing the algorithm.
+
+83
+00:04:35,190 --> 00:04:38,590
+You have done implementation
+throughout the, the course with us.
+
+84
+00:04:38,590 --> 00:04:42,430
+Where every algorithm was implemented
+in a, in a programming language.
+
+85
+00:04:42,430 --> 00:04:45,770
+You had to test it and
+you have to, to go back and
+
+86
+00:04:45,770 --> 00:04:49,730
+forth between the pseudo code,
+and the actual implementation.
+
+87
+00:04:49,730 --> 00:04:50,980
+As I said from the beginning.
+
+88
+00:04:52,130 --> 00:04:55,290
+One of the interesting things of
+going from the pseudocode, to the,
+
+89
+00:04:55,290 --> 00:04:59,310
+to the actual code, to the actual
+implementation, is that that step,
+
+90
+00:04:59,310 --> 00:05:04,410
+presents us with opportunities, but
+also presents some dangers there.
+
+91
+00:05:04,410 --> 00:05:06,680
+The opportunities, in, in the,
+
+92
+00:05:06,680 --> 00:05:11,940
+in the form that you can actually use your
+implementation or coding skills to take
+
+93
+00:05:11,940 --> 00:05:16,180
+pseudocode and make, actually,
+a more efficient implementation of it.
+
+94
+00:05:16,180 --> 00:05:18,840
+Because when we present through
+the code it's basically we
+
+95
+00:05:18,840 --> 00:05:21,320
+are describing what the algorithm does.
+
+96
+00:05:21,320 --> 00:05:24,090
+Not how it does every step in detail.
+
+97
+00:05:24,090 --> 00:05:27,320
+When we want to present how things
+are done in detail that's when we
+
+98
+00:05:27,320 --> 00:05:29,370
+go to the actual implementation.
+
+99
+00:05:29,370 --> 00:05:31,570
+And you have seen I hope,
+throughout the course,
+
+100
+00:05:31,570 --> 00:05:35,580
+is that when we present pseudo
+code in the homework or wherever.
+
+101
+00:05:35,580 --> 00:05:38,900
+And you are writing the implementation
+of that pseudo code.
+
+102
+00:05:38,900 --> 00:05:44,830
+In many, many situations, you even made
+the, the pseudo code more, more efficient.
+
+103
+00:05:44,830 --> 00:05:45,400
+Okay?
+
+104
+00:05:45,400 --> 00:05:48,270
+But the second thing also as I said,
+there is the danger of
+
+105
+00:05:48,270 --> 00:05:52,250
+going from a correct pseudo code,
+to an incorrect implementation.
+
+106
+00:05:52,250 --> 00:05:55,050
+And again, you have noticed that
+in this course that sometimes when
+
+107
+00:05:55,050 --> 00:05:58,200
+you implemented the, the piece of code.
+
+108
+00:05:58,200 --> 00:06:02,410
+Even though the pseudo code is correct,
+you notice that you had to go through many
+
+109
+00:06:02,410 --> 00:06:06,840
+iterations, of that implementation
+phase until you got it right, okay?
+
+110
+00:06:06,840 --> 00:06:11,860
+So, the first, the fourth step is, is that
+implementation of the pseudo code, but
+
+111
+00:06:11,860 --> 00:06:14,800
+it's not a trivial step
+by any means right?
+
+112
+00:06:14,800 --> 00:06:17,390
+Because, you have to make
+the implementation efficient.
+
+113
+00:06:17,390 --> 00:06:19,360
+You have to make sure it is correct.
+
+114
+00:06:19,360 --> 00:06:23,465
+And there are, there is a lot of room for
+efficiency, and there's a lot of room for
+
+115
+00:06:23,465 --> 00:06:26,440
+in-correctness, as well
+that you have to avoid.
+
+116
+00:06:26,440 --> 00:06:29,490
+After we are done with that, the fifth
+step in our algorithmic thinking is to
+
+117
+00:06:29,490 --> 00:06:33,320
+take that code, run it on the data and
+reason about it.
+
+118
+00:06:33,320 --> 00:06:36,700
+And I would say, this is really
+what distinguishes our course,
+
+119
+00:06:36,700 --> 00:06:40,820
+from a traditional algorithms course,
+where we had that application part.
+
+120
+00:06:40,820 --> 00:06:43,620
+Where we try to emphasize
+this notion that,
+
+121
+00:06:43,620 --> 00:06:48,150
+an algorithm is not just a mathematical
+object that we implement, for fun.
+
+122
+00:06:48,150 --> 00:06:52,130
+Some people do have fun, with coming up
+with algorithms or implementing them.
+
+123
+00:06:52,130 --> 00:06:56,050
+But usually they are part of a larger
+application that we are trying to solve or
+
+124
+00:06:56,050 --> 00:06:57,200
+to develop.
+
+125
+00:06:57,200 --> 00:07:00,380
+And the application component in,
+in the algorithmic thinking.
+
+126
+00:07:00,380 --> 00:07:02,540
+Was designed, to illustrate this notion.
+
+127
+00:07:02,540 --> 00:07:05,440
+So, we wanted you to
+take that implementation,
+
+128
+00:07:05,440 --> 00:07:09,830
+apply it to actual data set,
+get an output, and reason about it.
+
+129
+00:07:09,830 --> 00:07:13,390
+And every now and then even make
+connection to the symptotic analysis and
+
+130
+00:07:13,390 --> 00:07:15,950
+so on that you have done
+in the theoretical part.
+
+131
+00:07:15,950 --> 00:07:16,590
+Okay?
+
+132
+00:07:16,590 --> 00:07:21,200
+So, again, this is the five step
+process of algorithmic thinking.
+
+133
+00:07:21,200 --> 00:07:25,610
+Where, we basically understand
+the problem, formulate the problem,
+
+134
+00:07:25,610 --> 00:07:30,480
+come up with an algorithm, implement
+the algorithm, and then analyze the,
+
+135
+00:07:30,480 --> 00:07:34,080
+the original data that we were presented
+with, so that we give solutions.
+
+136
+00:07:34,080 --> 00:07:34,680
+Okay.
+
+137
+00:07:34,680 --> 00:07:38,285
+Algorithmic thinking is a very powerful
+technique, especially these days when,
+
+138
+00:07:38,285 --> 00:07:40,490
+when computer science is spreading,
+
+139
+00:07:40,490 --> 00:07:44,168
+in terms of applications way beyond
+traditional computer science.
+
+140
+00:07:44,168 --> 00:07:48,150
+So now we,
+the community talks about X plus CS, or
+
+141
+00:07:48,150 --> 00:07:51,000
+X plus computer science
+where X can be any domain.
+
+142
+00:07:51,000 --> 00:07:52,530
+Biology plus computer science,
+
+143
+00:07:52,530 --> 00:07:56,410
+physics plus computer science,
+social sciences plus computer science.
+
+144
+00:07:56,410 --> 00:08:00,165
+So, algorithmic thinking,
+is actually everywhere in this fields.
+
+145
+00:08:00,165 --> 00:08:01,040
+Okay?
+
+146
+00:08:01,040 --> 00:08:05,600
+And we highly recommend that, this is
+just the beginning, that you start if you
+
+147
+00:08:05,600 --> 00:08:10,820
+enjoy it or you like algorithmic thinking,
+that you start, honing more skills, that
+
+148
+00:08:10,820 --> 00:08:15,750
+will allow you to practice this kind of
+pro process in practice, which basically
+
+149
+00:08:15,750 --> 00:08:20,670
+means, you need to take more mathematic
+courses, more algorithm courses and so on.
+

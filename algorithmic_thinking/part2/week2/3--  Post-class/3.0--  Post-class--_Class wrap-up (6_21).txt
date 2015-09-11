@@ -1,0 +1,271 @@
+So I want to thank you, for taking the
+algorithmic think thinking course with us,
+you know Joe, Scott and I are all very
+happy to have had you in the course, and
+we hope that you learned interesting stuff
+from the course, we truly believe in
+the significance and the importance of
+the material we delivered in this course.
+As we had mentioned, we had offered
+this course at Rice University for
+four years now, and
+it has been very successful.
+We offered you a version
+of that course here and
+we hope that you also got
+the same type of material and
+the same type of experience,
+that we also offered to Rice students.
+And I want to summarize
+briefly what we have,
+what is this process of algorithmic
+thinking, that we have been following.
+And what is it that we have
+done throughout this course.
+And as a reminder, you know, I defined
+algorithmic thinking from the beginning of
+the course, as a five step process.
+And that five step process, is really
+motivated by the way I look at research
+and the, the, my research involving,
+domains outside computer science.
+In particular biology.
+So the first step in the problems
+when I'm dealing with a biologist or
+when I'm working on
+a problem from biology.
+Is to understand the problem.
+What is it that,
+what is that the biologists wants from me?
+What is that input,
+that they're going to provide me.
+Are they going to give me DNA sequences?
+Are they going to give
+me homgeno sequences?
+Are they going to give me some
+information about gene expression?
+Are they going to give me
+a interaction network?
+So what is it that they are going to give
+me, and what is it that they want from me?
+One, the first,
+when I understand all these details,
+what is it that they want to give,
+what is it that they want to, to get back?
+Now I formulate the problem, and this
+is where math, comes into the picture.
+The formulation, the problem formulation,
+which is the second step in
+algorithmic thinking, is really
+mathematics, more than algorithms.
+Here we have to use our skills,
+in mathematics to represent
+the problem cleanly.
+For example, if the biologist has
+given me DNA sequences, I have to say,
+that these sequences can be best
+represented as strings, right, which
+are basically mathematical structures,
+that we have talked about, okay?
+We will present these as strings.
+I have to define some sort of
+a mathematical criterion that says,
+what are the, the constraints on these
+strings to make them DNA strings,
+what are the constraints on the output,
+in terms of what the biologist wants,
+as a feasible solution, and
+what is an optimal criterion.
+If a biologist wants a good, solution,
+what makes a solution good, right?
+We have to define that mathematically,
+so that an algorithm can run,
+on the on a space of possible candidates
+and find the good solution okay?
+So first step understand the problem.
+Second is formulated mathematically
+in terms of input and output.
+The third thing,
+we come up with an algorithm, okay?
+Once we come up with algorithm,
+we have seen some algorithmic
+strategies in the course.
+Including divide and conquer.
+Including dynamic programming,
+we have seen graph exploration and so on.
+Of course there's brute force, but
+we have seen that brute force is not,
+the most interesting or
+the most feasible thing in most scenarios.
+So the third step, we are interested
+in coming up with an algorithm.
+We can,
+the first thing that we think about,
+is, okay what algorithmic
+strategies are out there.
+Are, is the problem we are dealing win,
+I mean,
+with amenable to some of these strategies,
+or
+do we need to come up with a new algorithm
+or a new strategy to solve the problem.
+And this usually one of the most
+challenging steps in algorithmic thinking,
+because coming up with an algorithm for
+a problem from scratch,
+is not a trivial task.
+Okay?
+So, we have see,
+some of algorithmic techniques.
+But beyond this course,
+there are many more advanced courses.
+Whether they're like traditionally
+combinatorial, algorithms, or
+more modern algorithms that deal with
+statistical inference problems, and so.
+There are lots of courses out there,
+that we highly recommend that you take and
+explore algorithms, beyond what you
+have seen in algorithmic thinking.
+Once we come up with an algorithm.
+We make sure it is correct, we analyze its
+correctness, we analyze its efficiency.
+We have talked about, running time and
+asymptotics to make sure that we can,
+reason about how efficient
+an algorithm is before we even move to
+the implementation fees, because as
+we have discussed in this course,
+if the running time of an algorithm grows.
+A symptotic like two to the N,
+where N is the input size, and
+you know that the size of the input is
+going to be on the order of thousands or
+tens of thousands, you know that that
+algorithm is not going to be worth,
+implementing because it's going to,
+be unfeasible in practice.
+So, once we have come up with
+an algorithm, reasoned about it's
+efficiency and correctness, the fourth
+step is implementing the algorithm.
+You have done implementation
+throughout the, the course with us.
+Where every algorithm was implemented
+in a, in a programming language.
+You had to test it and
+you have to, to go back and
+forth between the pseudo code,
+and the actual implementation.
+As I said from the beginning.
+One of the interesting things of
+going from the pseudocode, to the,
+to the actual code, to the actual
+implementation, is that that step,
+presents us with opportunities, but
+also presents some dangers there.
+The opportunities, in, in the,
+in the form that you can actually use your
+implementation or coding skills to take
+pseudocode and make, actually,
+a more efficient implementation of it.
+Because when we present through
+the code it's basically we
+are describing what the algorithm does.
+Not how it does every step in detail.
+When we want to present how things
+are done in detail that's when we
+go to the actual implementation.
+And you have seen I hope,
+throughout the course,
+is that when we present pseudo
+code in the homework or wherever.
+And you are writing the implementation
+of that pseudo code.
+In many, many situations, you even made
+the, the pseudo code more, more efficient.
+Okay?
+But the second thing also as I said,
+there is the danger of
+going from a correct pseudo code,
+to an incorrect implementation.
+And again, you have noticed that
+in this course that sometimes when
+you implemented the, the piece of code.
+Even though the pseudo code is correct,
+you notice that you had to go through many
+iterations, of that implementation
+phase until you got it right, okay?
+So, the first, the fourth step is, is that
+implementation of the pseudo code, but
+it's not a trivial step
+by any means right?
+Because, you have to make
+the implementation efficient.
+You have to make sure it is correct.
+And there are, there is a lot of room for
+efficiency, and there's a lot of room for
+in-correctness, as well
+that you have to avoid.
+After we are done with that, the fifth
+step in our algorithmic thinking is to
+take that code, run it on the data and
+reason about it.
+And I would say, this is really
+what distinguishes our course,
+from a traditional algorithms course,
+where we had that application part.
+Where we try to emphasize
+this notion that,
+an algorithm is not just a mathematical
+object that we implement, for fun.
+Some people do have fun, with coming up
+with algorithms or implementing them.
+But usually they are part of a larger
+application that we are trying to solve or
+to develop.
+And the application component in,
+in the algorithmic thinking.
+Was designed, to illustrate this notion.
+So, we wanted you to
+take that implementation,
+apply it to actual data set,
+get an output, and reason about it.
+And every now and then even make
+connection to the symptotic analysis and
+so on that you have done
+in the theoretical part.
+Okay?
+So, again, this is the five step
+process of algorithmic thinking.
+Where, we basically understand
+the problem, formulate the problem,
+come up with an algorithm, implement
+the algorithm, and then analyze the,
+the original data that we were presented
+with, so that we give solutions.
+Okay.
+Algorithmic thinking is a very powerful
+technique, especially these days when,
+when computer science is spreading,
+in terms of applications way beyond
+traditional computer science.
+So now we,
+the community talks about X plus CS, or
+X plus computer science
+where X can be any domain.
+Biology plus computer science,
+physics plus computer science,
+social sciences plus computer science.
+So, algorithmic thinking,
+is actually everywhere in this fields.
+Okay?
+And we highly recommend that, this is
+just the beginning, that you start if you
+enjoy it or you like algorithmic thinking,
+that you start, honing more skills, that
+will allow you to practice this kind of
+pro process in practice, which basically
+means, you need to take more mathematic
+courses, more algorithm courses and so on.
+
