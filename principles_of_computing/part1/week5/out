@@ -1,0 +1,2323 @@
+Best : Total Cookies Produced:    1.20688701626e+18
+Cookies in bank:      87163359.055219
+Time Elapsed: 10000000000.0
+Current CPS: 138950075.7
+
+time     , item ,    cost,   totalcook
+(0.0, None, 0.0, 0.0)
+time     , item ,    cost,   totalcook
+(15.0, 'Cursor', 15.0, 15.0)
+time     , item ,    cost,   totalcook
+(31.0, 'Cursor', 17.25, 32.6)
+time     , item ,    cost,   totalcook
+(48.0, 'Cursor', 19.8375, 53.0)
+time     , item ,    cost,   totalcook
+(65.0, 'Cursor', 22.813124999999996, 75.10000000000001)
+time     , item ,    cost,   totalcook
+(84.0, 'Cursor', 26.235093749999994, 101.70000000000002)
+time     , item ,    cost,   totalcook
+(104.0, 'Cursor', 30.17035781249999, 131.70000000000002)
+time     , item ,    cost,   totalcook
+(126.0, 'Cursor', 34.69591148437499, 166.90000000000003)
+time     , item ,    cost,   totalcook
+(149.0, 'Cursor', 39.900298207031234, 206.00000000000006)
+time     , item ,    cost,   totalcook
+(175.0, 'Cursor', 45.88534293808591, 252.80000000000007)
+time     , item ,    cost,   totalcook
+(203.0, 'Cursor', 52.768144378798794, 306.0000000000001)
+time     , item ,    cost,   totalcook
+(233.0, 'Cursor', 60.68336603561861, 366.0000000000001)
+time     , item ,    cost,   totalcook
+(266.0, 'Cursor', 69.7858709409614, 435.3000000000001)
+time     , item ,    cost,   totalcook
+(303.0, 'Cursor', 80.25375158210561, 516.7000000000002)
+time     , item ,    cost,   totalcook
+(346.0, 'Grandma', 100.0, 615.6000000000003)
+time     , item ,    cost,   totalcook
+(387.0, 'Grandma', 114.99999999999999, 730.4000000000003)
+time     , item ,    cost,   totalcook
+(428.0, 'Grandma', 132.24999999999997, 865.7000000000004)
+time     , item ,    cost,   totalcook
+(468.0, 'Grandma', 152.08749999999995, 1017.7000000000005)
+time     , item ,    cost,   totalcook
+(508.0, 'Grandma', 174.90062499999993, 1189.7000000000005)
+time     , item ,    cost,   totalcook
+(550.0, 'Grandma', 201.1357187499999, 1391.3000000000006)
+time     , item ,    cost,   totalcook
+(594.0, 'Grandma', 231.30607656249987, 1624.5000000000007)
+time     , item ,    cost,   totalcook
+(640.0, 'Grandma', 266.0019880468748, 1891.3000000000006)
+time     , item ,    cost,   totalcook
+(689.0, 'Grandma', 305.902286253906, 2200.000000000001)
+time     , item ,    cost,   totalcook
+(740.0, 'Grandma', 351.7876291919919, 2546.800000000001)
+time     , item ,    cost,   totalcook
+(796.0, 'Grandma', 404.5557735707907, 2955.6000000000013)
+time     , item ,    cost,   totalcook
+(860.0, 'Farm', 500.0, 3454.800000000001)
+time     , item ,    cost,   totalcook
+(909.0, 'Farm', 575.0, 4033.000000000001)
+time     , item ,    cost,   totalcook
+(951.0, 'Farm', 661.25, 4696.600000000001)
+time     , item ,    cost,   totalcook
+(989.0, 'Farm', 760.4374999999999, 5449.000000000001)
+time     , item ,    cost,   totalcook
+(1026.0, 'Farm', 874.5031249999998, 6329.600000000001)
+time     , item ,    cost,   totalcook
+(1062.0, 'Farm', 1005.6785937499998, 7330.4000000000015)
+time     , item ,    cost,   totalcook
+(1099.0, 'Farm', 1156.5303828124997, 8507.000000000002)
+time     , item ,    cost,   totalcook
+(1136.0, 'Farm', 1330.0099402343747, 9831.600000000002)
+time     , item ,    cost,   totalcook
+(1174.0, 'Farm', 1529.5114312695307, 11344.000000000002)
+time     , item ,    cost,   totalcook
+(1215.0, 'Farm', 1758.9381459599601, 13139.800000000001)
+time     , item ,    cost,   totalcook
+(1257.0, 'Farm', 2022.778867853954, 15147.400000000001)
+time     , item ,    cost,   totalcook
+(1302.0, 'Farm', 2326.195698032047, 17478.4)
+time     , item ,    cost,   totalcook
+(1356.0, 'Factory', 3000.0, 20491.600000000002)
+time     , item ,    cost,   totalcook
+(1408.0, 'Factory', 3449.9999999999995, 23913.2)
+time     , item ,    cost,   totalcook
+(1461.0, 'Factory', 3967.499999999999, 27930.6)
+time     , item ,    cost,   totalcook
+(1514.0, 'Factory', 4562.624999999998, 32478.0)
+time     , item ,    cost,   totalcook
+(1569.0, 'Factory', 5247.018749999997, 37747.0)
+time     , item ,    cost,   totalcook
+(1626.0, 'Factory', 6034.071562499997, 43777.6)
+time     , item ,    cost,   totalcook
+(1686.0, 'Factory', 6939.182296874996, 50725.6)
+time     , item ,    cost,   totalcook
+(1749.0, 'Factory', 7980.059641406245, 58651.0)
+time     , item ,    cost,   totalcook
+(1823.0, 'Mine', 10000.0, 68700.2)
+time     , item ,    cost,   totalcook
+(1889.0, 'Mine', 11500.0, 80303.0)
+time     , item ,    cost,   totalcook
+(1950.0, 'Mine', 13224.999999999998, 93466.8)
+time     , item ,    cost,   totalcook
+(2010.0, 'Mine', 15208.749999999996, 108814.8)
+time     , item ,    cost,   totalcook
+(2069.0, 'Mine', 17490.062499999993, 126267.0)
+time     , item ,    cost,   totalcook
+(2129.0, 'Mine', 20113.57187499999, 146415.0)
+time     , item ,    cost,   totalcook
+(2190.0, 'Mine', 23130.607656249987, 169338.8)
+time     , item ,    cost,   totalcook
+(2254.0, 'Mine', 26600.198804687483, 195950.0)
+time     , item ,    cost,   totalcook
+(2322.0, 'Mine', 30590.228625390602, 226944.4)
+time     , item ,    cost,   totalcook
+(2402.0, 'Shipment', 40000.0, 266608.4)
+time     , item ,    cost,   totalcook
+(2480.0, 'Shipment', 46000.0, 313080.80000000005)
+time     , item ,    cost,   totalcook
+(2556.0, 'Shipment', 52899.99999999999, 365961.60000000003)
+time     , item ,    cost,   totalcook
+(2632.0, 'Shipment', 60834.999999999985, 426442.4)
+time     , item ,    cost,   totalcook
+(2710.0, 'Shipment', 69960.24999999997, 496314.80000000005)
+time     , item ,    cost,   totalcook
+(2791.0, 'Shipment', 80454.28749999996, 576974.6000000001)
+time     , item ,    cost,   totalcook
+(2876.0, 'Shipment', 92522.43062499995, 670117.6000000001)
+time     , item ,    cost,   totalcook
+(2965.0, 'Shipment', 106400.79521874993, 776543.8)
+time     , item ,    cost,   totalcook
+(3059.0, 'Shipment', 122360.91450156241, 898349.0)
+time     , item ,    cost,   totalcook
+(3160.0, 'Shipment', 140715.05167679675, 1039324.8)
+time     , item ,    cost,   totalcook
+(3268.0, 'Shipment', 161822.30942831625, 1200871.2)
+time     , item ,    cost,   totalcook
+(3394.0, 'Alchemy Lab', 200000.0, 1401942.0)
+time     , item ,    cost,   totalcook
+(3509.0, 'Alchemy Lab', 229999.99999999997, 1631459.0)
+time     , item ,    cost,   totalcook
+(3619.0, 'Alchemy Lab', 264499.99999999994, 1894997.0)
+time     , item ,    cost,   totalcook
+(3728.0, 'Alchemy Lab', 304174.9999999999, 2199739.2)
+time     , item ,    cost,   totalcook
+(3838.0, 'Alchemy Lab', 349801.2499999998, 2551277.2)
+time     , item ,    cost,   totalcook
+(3950.0, 'Alchemy Lab', 402271.43749999977, 2954006.8000000003)
+time     , item ,    cost,   totalcook
+(4066.0, 'Alchemy Lab', 462612.1531249997, 3417519.6000000006)
+time     , item ,    cost,   totalcook
+(4187.0, 'Alchemy Lab', 532003.9760937496, 3949411.4000000004)
+time     , item ,    cost,   totalcook
+(4314.0, 'Alchemy Lab', 611804.5725078121, 4558478.0)
+time     , item ,    cost,   totalcook
+(4450.0, 'Alchemy Lab', 703575.2583839839, 5265106.8)
+time     , item ,    cost,   totalcook
+(4594.0, 'Alchemy Lab', 809111.5471415814, 6070902.0)
+time     , item ,    cost,   totalcook
+(4750.0, 'Alchemy Lab', 930478.2792128186, 7006246.8)
+time     , item ,    cost,   totalcook
+(4917.0, 'Alchemy Lab', 1070050.0210947413, 8074345.4)
+time     , item ,    cost,   totalcook
+(5098.0, 'Alchemy Lab', 1230557.5242589524, 9304385.200000001)
+time     , item ,    cost,   totalcook
+(5295.0, 'Alchemy Lab', 1415141.1528977952, 10721957.8)
+time     , item ,    cost,   totalcook
+(5514.0, 'Portal', 1666666.0, 12385438.0)
+time     , item ,    cost,   totalcook
+(5649.0, 'Portal', 1916665.9, 14310781.0)
+time     , item ,    cost,   totalcook
+(5754.0, 'Portal', 2204165.7849999997, 16508200.0)
+time     , item ,    cost,   totalcook
+(5846.0, 'Portal', 2534790.6527499994, 19046829.6)
+time     , item ,    cost,   totalcook
+(5931.0, 'Portal', 2915009.250662499, 21958912.6)
+time     , item ,    cost,   totalcook
+(6013.0, 'Portal', 3352260.6382618737, 25314828.200000003)
+time     , item ,    cost,   totalcook
+(6094.0, 'Portal', 3855099.7340011545, 29169764.000000004)
+time     , item ,    cost,   totalcook
+(6176.0, 'Portal', 4433364.694101327, 33618903.6)
+time     , item ,    cost,   totalcook
+(6260.0, 'Portal', 5098369.398216526, 38736502.800000004)
+time     , item ,    cost,   totalcook
+(6347.0, 'Portal', 5863124.807949005, 44616815.400000006)
+time     , item ,    cost,   totalcook
+(6437.0, 'Portal', 6742593.529141355, 51299837.400000006)
+time     , item ,    cost,   totalcook
+(6533.0, 'Portal', 7753982.558512558, 59068330.2)
+time     , item ,    cost,   totalcook
+(6635.0, 'Portal', 8917079.942289442, 68002285.8)
+time     , item ,    cost,   totalcook
+(6744.0, 'Portal', 10254641.933632858, 78275950.0)
+time     , item ,    cost,   totalcook
+(6861.0, 'Portal', 11792838.223677786, 90083566.6)
+time     , item ,    cost,   totalcook
+(6987.0, 'Portal', 13561763.957229452, 103639377.39999999)
+time     , item ,    cost,   totalcook
+(7123.0, 'Portal', 15596028.550813869, 119177622.19999999)
+time     , item ,    cost,   totalcook
+(7272.0, 'Portal', 17935432.83343595, 137194374.39999998)
+time     , item ,    cost,   totalcook
+(7434.0, 'Portal', 20625747.75845134, 157862949.99999997)
+time     , item ,    cost,   totalcook
+(7610.0, 'Portal', 23719609.922219038, 181490914.79999995)
+time     , item ,    cost,   totalcook
+(7804.0, 'Portal', 27277551.41055189, 208828579.99999994)
+time     , item ,    cost,   totalcook
+(8016.0, 'Portal', 31369184.12213467, 240115921.59999993)
+time     , item ,    cost,   totalcook
+(8250.0, 'Portal', 36074561.74045487, 276209906.79999995)
+time     , item ,    cost,   totalcook
+(8508.0, 'Portal', 41485746.00152309, 317725667.1999999)
+time     , item ,    cost,   totalcook
+(8793.0, 'Portal', 47708607.901751556, 365485910.1999999)
+time     , item ,    cost,   totalcook
+(9108.0, 'Portal', 54864899.08701429, 420373337.1999999)
+time     , item ,    cost,   totalcook
+(9457.0, 'Portal', 63094633.950066425, 483511555.3999999)
+time     , item ,    cost,   totalcook
+(9843.0, 'Portal', 72558829.04257639, 555916586.1999999)
+time     , item ,    cost,   totalcook
+(10273.0, 'Portal', 83442653.39896284, 639441420.1999999)
+time     , item ,    cost,   totalcook
+(10751.0, 'Portal', 95959051.40880726, 735476304.5999999)
+time     , item ,    cost,   totalcook
+(11345.0, 'Time Machine', 123456789.0, 858776329.8)
+time     , item ,    cost,   totalcook
+(11809.0, 'Time Machine', 141975307.35, 1000918461.0)
+time     , item ,    cost,   totalcook
+(12212.0, 'Time Machine', 163271603.4525, 1164176098.4)
+time     , item ,    cost,   totalcook
+(12585.0, 'Time Machine', 187762343.97037497, 1352119906.8000002)
+time     , item ,    cost,   totalcook
+(12943.0, 'Time Machine', 215926695.5659312, 1567863523.2000003)
+time     , item ,    cost,   totalcook
+(13297.0, 'Time Machine', 248315699.90082085, 1816159406.4000003)
+time     , item ,    cost,   totalcook
+(13654.0, 'Time Machine', 285563054.88594395, 2101818597.0000005)
+time     , item ,    cost,   totalcook
+(14020.0, 'Time Machine', 328397513.1188355, 2430827269.8000007)
+time     , item ,    cost,   totalcook
+(14398.0, 'Time Machine', 377657140.0866608, 2807956282.200001)
+time     , item ,    cost,   totalcook
+(14794.0, 'Time Machine', 434305711.09965986, 3242154759.000001)
+time     , item ,    cost,   totalcook
+(15212.0, 'Time Machine', 499451567.7646088, 3741759143.400001)
+time     , item ,    cost,   totalcook
+(15656.0, 'Time Machine', 574369302.9293001, 4316291058.600001)
+time     , item ,    cost,   totalcook
+(16130.0, 'Time Machine', 660524698.368695, 4976457307.800001)
+time     , item ,    cost,   totalcook
+(16640.0, 'Time Machine', 759603403.1239992, 5737132915.800001)
+time     , item ,    cost,   totalcook
+(17189.0, 'Time Machine', 873543913.592599, 6610199820.000001)
+time     , item ,    cost,   totalcook
+(17784.0, 'Time Machine', 1004575500.6314888, 7615185046.000001)
+time     , item ,    cost,   totalcook
+(18430.0, 'Time Machine', 1155261825.726212, 8770114052.800001)
+time     , item ,    cost,   totalcook
+(19134.0, 'Time Machine', 1328551099.5851438, 10098266936.000002)
+time     , item ,    cost,   totalcook
+(19904.0, 'Time Machine', 1527833764.5229154, 11626983202.000002)
+time     , item ,    cost,   totalcook
+(20747.0, 'Time Machine', 1757008829.2013526, 13383888606.400002)
+time     , item ,    cost,   totalcook
+(21673.0, 'Time Machine', 2020560153.5815554, 15405231597.2)
+time     , item ,    cost,   totalcook
+(22691.0, 'Time Machine', 2323644176.6187887, 17727941931.6)
+time     , item ,    cost,   totalcook
+(23814.0, 'Time Machine', 2672190803.1116066, 20401137645.0)
+time     , item ,    cost,   totalcook
+(25053.0, 'Time Machine', 3073019423.578347, 23472830266.2)
+time     , item ,    cost,   totalcook
+(26605.0, 'Antimatter Condenser', 3999999999.0, 27473786627.8)
+time     , item ,    cost,   totalcook
+(27891.0, 'Antimatter Condenser', 4599999998.849999, 32075010780.6)
+time     , item ,    cost,   totalcook
+(29046.0, 'Antimatter Condenser', 5289999998.677499, 37362524319.6)
+time     , item ,    cost,   totalcook
+(30137.0, 'Antimatter Condenser', 6083499998.479123, 43448049004.4)
+time     , item ,    cost,   totalcook
+(31201.0, 'Antimatter Condenser', 6996024998.250991, 50446968439.6)
+time     , item ,    cost,   totalcook
+(32262.0, 'Antimatter Condenser', 8045428747.988639, 58487153018.4)
+time     , item ,    cost,   totalcook
+(33341.0, 'Antimatter Condenser', 9252243060.186934, 67742739272.600006)
+time     , item ,    cost,   totalcook
+(34452.0, 'Antimatter Condenser', 10640079519.214973, 78383818169.40001)
+time     , item ,    cost,   totalcook
+(35609.0, 'Antimatter Condenser', 12236091447.09722, 90622480634.00002)
+time     , item ,    cost,   totalcook
+(36824.0, 'Antimatter Condenser', 14071505164.1618, 104689661696.00002)
+time     , item ,    cost,   totalcook
+(38111.0, 'Antimatter Condenser', 16182230938.78607, 120877452200.60002)
+time     , item ,    cost,   totalcook
+(39481.0, 'Antimatter Condenser', 18609565579.603977, 139479209176.60004)
+time     , item ,    cost,   totalcook
+(40950.0, 'Antimatter Condenser', 21401000416.54457, 160894179238.80005)
+time     , item ,    cost,   totalcook
+(42529.0, 'Antimatter Condenser', 24611150479.026257, 185491719340.00006)
+time     , item ,    cost,   totalcook
+(44237.0, 'Antimatter Condenser', 28302823050.88019, 213806809774.40005)
+time     , item ,    cost,   totalcook
+(46088.0, 'Antimatter Condenser', 32548246508.51222, 246343541175.20007)
+time     , item ,    cost,   totalcook
+(48103.0, 'Antimatter Condenser', 37430483484.78905, 283778049572.2001)
+time     , item ,    cost,   totalcook
+(50302.0, 'Antimatter Condenser', 43045056007.5074, 326829893013.4001)
+time     , item ,    cost,   totalcook
+(52707.0, 'Antimatter Condenser', 49501814408.63351, 376319785322.4001)
+time     , item ,    cost,   totalcook
+(55346.0, 'Antimatter Condenser', 56927086569.92853, 433263907757.6001)
+time     , item ,    cost,   totalcook
+(58245.0, 'Antimatter Condenser', 65466149555.4178, 498717285661.8001)
+time     , item ,    cost,   totalcook
+(61438.0, 'Antimatter Condenser', 75286071988.73047, 574001567618.2001)
+time     , item ,    cost,   totalcook
+(64961.0, 'Antimatter Condenser', 86578982787.04004, 660589557935.6001)
+time     , item ,    cost,   totalcook
+(68854.0, 'Antimatter Condenser', 99565830205.09604, 760164372466.0001)
+time     , item ,    cost,   totalcook
+(73162.0, 'Antimatter Condenser', 114500704735.86044, 874662016500.4001)
+time     , item ,    cost,   totalcook
+(77937.0, 'Antimatter Condenser', 131675810446.2395, 1006346540570.4001)
+time     , item ,    cost,   totalcook
+(83235.0, 'Antimatter Condenser', 151427182013.1754, 1157752306690.8)
+time     , item ,    cost,   totalcook
+(89123.0, 'Antimatter Condenser', 174141259315.1517, 1331907033705.2)
+time     , item ,    cost,   totalcook
+(95672.0, 'Antimatter Condenser', 200262448212.42444, 1532161751887.4)
+time     , item ,    cost,   totalcook
+(102965.0, 'Antimatter Condenser', 230301815444.2881, 1762459426179.7998)
+time     , item ,    cost,   totalcook
+(111095.0, 'Antimatter Condenser', 264847087760.93127, 2027317800333.7998)
+time     , item ,    cost,   totalcook
+(120166.0, 'Antimatter Condenser', 304574150925.0709, 2331902974774.5996)
+time     , item ,    cost,   totalcook
+(130295.0, 'Antimatter Condenser', 350260273563.83154, 2682142562364.8)
+time     , item ,    cost,   totalcook
+(141617.0, 'Antimatter Condenser', 402799314598.40625, 3084955577866.4)
+time     , item ,    cost,   totalcook
+(154281.0, 'Antimatter Condenser', 463219211788.1672, 3548178126261.5996)
+time     , item ,    cost,   totalcook
+(168457.0, 'Antimatter Condenser', 532702093556.3922, 4080882448002.3994)
+time     , item ,    cost,   totalcook
+(184337.0, 'Antimatter Condenser', 612607407589.851, 4693499496826.399)
+time     , item ,    cost,   totalcook
+(202137.0, 'Antimatter Condenser', 704498518728.3285, 5397986095466.399)
+time     , item ,    cost,   totalcook
+(222103.0, 'Antimatter Condenser', 810173296537.5778, 6208164402941.199)
+time     , item ,    cost,   totalcook
+(244511.0, 'Antimatter Condenser', 931699291018.2144, 7139841914435.6)
+time     , item ,    cost,   totalcook
+(269676.0, 'Antimatter Condenser', 1071454184670.9464, 8211314662242.6)
+time     , item ,    cost,   totalcook
+(297951.0, 'Antimatter Condenser', 1232172312371.5884, 9443479637712.6)
+time     , item ,    cost,   totalcook
+(329738.0, 'Antimatter Condenser', 1416998159227.3264, 10860477147933.2)
+time     , item ,    cost,   totalcook
+(365491.0, 'Antimatter Condenser', 1629547883111.4253, 12490023549211.6)
+time     , item ,    cost,   totalcook
+(405724.0, 'Antimatter Condenser', 1873980065578.139, 14363991870001.0)
+time     , item ,    cost,   totalcook
+(451020.0, 'Antimatter Condenser', 2155077075414.8596, 16519080011677.8)
+time     , item ,    cost,   totalcook
+(502038.0, 'Antimatter Condenser', 2478338636727.0884, 18997426793494.2)
+time     , item ,    cost,   totalcook
+(559525.0, 'Antimatter Condenser', 2850089432236.1514, 21847510886939.797)
+time     , item ,    cost,   totalcook
+(624328.0, 'Antimatter Condenser', 3277602847071.5737, 25125109750043.195)
+time     , item ,    cost,   totalcook
+(697407.0, 'Antimatter Condenser', 3769243274132.3096, 28894370139500.395)
+time     , item ,    cost,   totalcook
+(779849.0, 'Antimatter Condenser', 4334629765252.156, 33228996200623.992)
+time     , item ,    cost,   totalcook
+(872888.0, 'Antimatter Condenser', 4984824230039.979, 38213829024531.195)
+time     , item ,    cost,   totalcook
+(977922.0, 'Antimatter Condenser', 5732547864545.975, 43946362471580.39)
+time     , item ,    cost,   totalcook
+(1096538.0, 'Antimatter Condenser', 6592430044227.87, 50538788617785.19)
+time     , item ,    cost,   totalcook
+(1230536.0, 'Antimatter Condenser', 7581294550862.05, 58120111623221.586)
+time     , item ,    cost,   totalcook
+(1381956.0, 'Antimatter Condenser', 8718488733491.356, 66838554333957.586)
+time     , item ,    cost,   totalcook
+(1553118.0, 'Antimatter Condenser', 10026262043515.059, 76864861396285.19)
+time     , item ,    cost,   totalcook
+(1746649.0, 'Antimatter Condenser', 11530201350042.316, 88395027858327.98)
+time     , item ,    cost,   totalcook
+(1965537.0, 'Antimatter Condenser', 13259731552548.662, 101654798374214.38)
+time     , item ,    cost,   totalcook
+(2213169.0, 'Antimatter Condenser', 15248691285430.96, 116903451161951.97)
+time     , item ,    cost,   totalcook
+(2493396.0, 'Antimatter Condenser', 17535994978245.604, 134439461563758.56)
+time     , item ,    cost,   totalcook
+(2810588.0, 'Antimatter Condenser', 20166394224982.44, 154605854827320.16)
+time     , item ,    cost,   totalcook
+(3169710.0, 'Antimatter Condenser', 23191353358729.805, 177797190022123.75)
+time     , item ,    cost,   totalcook
+(3576403.0, 'Antimatter Condenser', 26670056362539.273, 204467251844774.16)
+time     , item ,    cost,   totalcook
+(4037075.0, 'Antimatter Condenser', 30670564816920.16, 235137813202623.75)
+time     , item ,    cost,   totalcook
+(4559009.0, 'Antimatter Condenser', 35271149539458.18, 270409001620750.94)
+time     , item ,    cost,   totalcook
+(5150480.0, 'Antimatter Condenser', 40561821970376.91, 310970822849226.75)
+time     , item ,    cost,   totalcook
+(5820895.0, 'Antimatter Condenser', 46646095265933.44, 357616869760778.75)
+time     , item ,    cost,   totalcook
+(6580950.0, 'Antimatter Condenser', 53643009555823.445, 411259931071507.75)
+time     , item ,    cost,   totalcook
+(7442801.0, 'Antimatter Condenser', 61689460989196.96, 472949387150954.56)
+time     , item ,    cost,   totalcook
+(8420274.0, 'Antimatter Condenser', 70942880137576.5, 543892291368077.94)
+time     , item ,    cost,   totalcook
+(9529090.0, 'Antimatter Condenser', 81584312158212.97, 625476605104154.8)
+time     , item ,    cost,   totalcook
+(10787130.0, 'Antimatter Condenser', 93821958981944.9, 719298540879106.8)
+time     , item ,    cost,   totalcook
+(12214734.0, 'Antimatter Condenser', 107895252829236.64, 827193800123838.0)
+time     , item ,    cost,   totalcook
+(13835039.0, 'Antimatter Condenser', 124079540753622.12, 951273292487687.0)
+time     , item ,    cost,   totalcook
+(15674372.0, 'Antimatter Condenser', 142691471866665.44, 1093964811926533.4)
+time     , item ,    cost,   totalcook
+(17762685.0, 'Antimatter Condenser', 164095192646665.25, 1258059978059050.8)
+time     , item ,    cost,   totalcook
+(20134067.0, 'Antimatter Condenser', 188709471543665.03, 1446769480015912.2)
+time     , item ,    cost,   totalcook
+(22827312.0, 'Antimatter Condenser', 217015892275214.78, 1663785392646473.2)
+time     , item ,    cost,   totalcook
+(25886576.0, 'Antimatter Condenser', 249568276116496.97, 1913353593151868.5)
+time     , item ,    cost,   totalcook
+(29362127.0, 'Antimatter Condenser', 287003517533971.5, 2200357142455414.2)
+time     , item ,    cost,   totalcook
+(33311188.0, 'Antimatter Condenser', 330054045164067.2, 2530411189309757.0)
+time     , item ,    cost,   totalcook
+(37798913.0, 'Antimatter Condenser', 379562151938677.25, 2909973338254362.0)
+time     , item ,    cost,   totalcook
+(42899491.0, 'Antimatter Condenser', 436496474729478.8, 3346469851533280.5)
+time     , item ,    cost,   totalcook
+(48697405.0, 'Antimatter Condenser', 501970945938900.6, 3848440790574425.5)
+time     , item ,    cost,   totalcook
+(55288873.0, 'Antimatter Condenser', 577266587829735.6, 4425707391631400.0)
+time     , item ,    cost,   totalcook
+(62783484.0, 'Antimatter Condenser', 663856576004195.9, 5089563919098828.0)
+time     , item ,    cost,   totalcook
+(71306072.0, 'Antimatter Condenser', 763435062404825.2, 5852999018347522.0)
+time     , item ,    cost,   totalcook
+(80998843.0, 'Antimatter Condenser', 877950321765549.0, 6730949354745776.0)
+time     , item ,    cost,   totalcook
+(92023811.0, 'Antimatter Condenser', 1009642870030381.2, 7740592185224678.0)
+time     , item ,    cost,   totalcook
+(104565573.0, 'Antimatter Condenser', 1161089300534938.2, 8901681493720978.0)
+time     , item ,    cost,   totalcook
+(118834471.0, 'Antimatter Condenser', 1335252695615179.0, 1.0236934216232008e+16)
+time     , item ,    cost,   totalcook
+(135070203.0, 'Antimatter Condenser', 1535540599957455.8, 1.177247474130667e+16)
+time     , item ,    cost,   totalcook
+(153545947.0, 'Antimatter Condenser', 1765871689951074.0, 1.3538346496951714e+16)
+time     , item ,    cost,   totalcook
+(174573052.0, 'Antimatter Condenser', 2030752443443735.0, 1.5569098917153704e+16)
+time     , item ,    cost,   totalcook
+(198506409.0, 'Antimatter Condenser', 2335365309960295.0, 1.790446421630927e+16)
+time     , item ,    cost,   totalcook
+(225750566.0, 'Antimatter Condenser', 2685670106454339.0, 2.059013436054132e+16)
+time     , item ,    cost,   totalcook
+(256766710.0, 'Antimatter Condenser', 3088520622422489.5, 2.3678654947970908e+16)
+time     , item ,    cost,   totalcook
+(292080640.0, 'Antimatter Condenser', 3551798715785862.5, 2.7230453671591464e+16)
+time     , item ,    cost,   totalcook
+(332291858.0, 'Antimatter Condenser', 4084568523153741.5, 3.131502221112469e+16)
+time     , item ,    cost,   totalcook
+(378083951.0, 'Antimatter Condenser', 4697253801626802.0, 3.6012276007817016e+16)
+time     , item ,    cost,   totalcook
+(430236440.0, 'Antimatter Condenser', 5401841871870822.0, 4.141411789786783e+16)
+time     , item ,    cost,   totalcook
+(489638303.0, 'Antimatter Condenser', 6212118152651445.0, 4.76262360540922e+16)
+time     , item ,    cost,   totalcook
+(557303415.0, 'Antimatter Condenser', 7143935875549161.0, 5.477017193522147e+16)
+time     , item ,    cost,   totalcook
+(634388172.0, 'Antimatter Condenser', 8215526256881535.0, 6.298569820111134e+16)
+time     , item ,    cost,   totalcook
+(722211612.0, 'Antimatter Condenser', 9447855195413764.0, 7.24335533697053e+16)
+time     , item ,    cost,   totalcook
+(822278389.0, 'Antimatter Condenser', 1.0865033474725828e+16, 8.329858685144586e+16)
+time     , item ,    cost,   totalcook
+(936305000.0, 'Antimatter Condenser', 1.2494788495934702e+16, 9.579337531024805e+16)
+time     , item ,    cost,   totalcook
+(1066249737.0, 'Antimatter Condenser', 1.4369006770324906e+16, 1.1016238206175034e+17)
+time     , item ,    cost,   totalcook
+(1214346884.0, 'Antimatter Condenser', 1.652435778587364e+16, 1.2668673987929048e+17)
+time     , item ,    cost,   totalcook
+(1383145769.0, 'Antimatter Condenser', 1.9003011453754684e+16, 1.4568975135005472e+17)
+time     , item ,    cost,   totalcook
+(1575555363.0, 'Antimatter Condenser', 2.1853463171817884e+16, 1.6754321450722586e+17)
+time     , item ,    cost,   totalcook
+(1794895213.0, 'Antimatter Condenser', 2.5131482647590564e+16, 1.926746971928443e+17)
+time     , item ,    cost,   totalcook
+(2044953609.0, 'Antimatter Condenser', 2.8901205044729148e+16, 2.215759021753845e+17)
+time     , item ,    cost,   totalcook
+(2330054028.0, 'Antimatter Condenser', 3.3236385801438516e+16, 2.5481228801667184e+17)
+time     , item ,    cost,   totalcook
+(2655131014.0, 'Antimatter Condenser', 3.822184367165429e+16, 2.9303413162278394e+17)
+time     , item ,    cost,   totalcook
+(3025816867.0, 'Antimatter Condenser', 4.3955120222402424e+16, 3.369892519022272e+17)
+time     , item ,    cost,   totalcook
+(3448540653.0, 'Antimatter Condenser', 5.054838825576278e+16, 3.8753764018698515e+17)
+time     , item ,    cost,   totalcook
+(3930641321.0, 'Antimatter Condenser', 5.81306464941272e+16, 4.4566828669434746e+17)
+time     , item ,    cost,   totalcook
+(4480496921.0, 'Antimatter Condenser', 6.685024346824627e+16, 5.1251853009760154e+17)
+time     , item ,    cost,   totalcook
+(5107672234.0, 'Antimatter Condenser', 7.68777799884832e+16, 5.893963100888229e+17)
+time     , item ,    cost,   totalcook
+(5823087433.0, 'Antimatter Condenser', 8.840944698675568e+16, 6.778057570559501e+17)
+time     , item ,    cost,   totalcook
+(6639210794.0, 'Antimatter Condenser', 1.0167086403476902e+17, 7.794766211604383e+17)
+time     , item ,    cost,   totalcook
+(7570278878.0, 'Antimatter Condenser', 1.1692149363998437e+17, 8.96398114717045e+17)
+time     , item ,    cost,   totalcook
+(8632548132.0, 'Antimatter Condenser', 1.3445971768598202e+17, 1.0308578324307834e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Antimatter Condenser', 1.546286753388793e+17, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Cursor', 92.29181431942145, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Cursor', 106.13558646733466, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Cursor', 122.05592443743485, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Cursor', 140.36431310305008, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Cursor', 161.41896006850757, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Cursor', 185.6318040787837, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Cursor', 213.4765746906012, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Cursor', 245.49806089419138, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Cursor', 282.32277002832006, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Cursor', 324.6711855325681, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Cursor', 373.37186336245327, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Grandma', 465.23913960640925, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Grandma', 535.0250105473706, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Grandma', 615.2787621294761, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Grandma', 707.5705764488976, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Grandma', 813.7061629162321, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Grandma', 935.7620873536669, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Grandma', 1076.1264004567167, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Grandma', 1237.5453605252242, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Grandma', 1423.1771646040077, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Grandma', 1636.6537392946086, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Grandma', 1882.1518001887998, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Grandma', 2164.4745702171194, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Farm', 2675.125052736854, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Farm', 3076.3938106473815, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Farm', 3537.8528822444887, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Farm', 4068.530814581162, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Farm', 4678.810436768335, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Farm', 5380.632002283585, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Farm', 6187.726802626123, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Farm', 7115.88582302004, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Factory', 9177.068587617181, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Factory', 10553.628875759758, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Factory', 12136.67320712372, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Factory', 13957.174188192277, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Factory', 16050.750316421118, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Factory', 18458.362863884282, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Factory', 21227.117293466923, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Factory', 24411.18488748696, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Factory', 28072.86262061, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Mine', 35178.76291919919, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Mine', 40455.57735707906, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Mine', 46523.913960640915, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Mine', 53502.50105473705, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Mine', 61527.8762129476, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Mine', 70757.05764488973, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Mine', 81370.61629162318, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Mine', 93576.20873536666, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Mine', 107612.64004567165, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Mine', 123754.5360525224, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Mine', 142317.71646040076, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Shipment', 186095.65584256366, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Shipment', 214010.0042189482, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Shipment', 246111.5048517904, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Shipment', 283028.23057955893, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Shipment', 325482.46516649274, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Shipment', 374304.83494146663, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Shipment', 430450.5601826866, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Shipment', 495018.1442100896, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Shipment', 569270.865841603, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Shipment', 654661.4957178434, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Shipment', 752860.7200755199, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Shipment', 865789.8280868478, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Shipment', 995658.3022998748, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Shipment', 1145007.047644856, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Shipment', 1316758.1047915842, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Alchemy Lab', 1627412.3258324643, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Alchemy Lab', 1871524.1747073338, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Alchemy Lab', 2152252.8009134335, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Alchemy Lab', 2475090.7210504483, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Alchemy Lab', 2846354.3292080155, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Alchemy Lab', 3273307.4785892176, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582375.0, 'Alchemy Lab', 3764303.6003776, 1.1854865077673585e+18)
+time     , item ,    cost,   totalcook
+(9844582376.0, 'Alchemy Lab', 4328949.14043424, 1.185486507895941e+18)
+time     , item ,    cost,   totalcook
+(9844582376.0, 'Alchemy Lab', 4978291.511499376, 1.185486507895941e+18)
+time     , item ,    cost,   totalcook
+(9844582376.0, 'Alchemy Lab', 5725035.238224282, 1.185486507895941e+18)
+time     , item ,    cost,   totalcook
+(9844582376.0, 'Alchemy Lab', 6583790.523957924, 1.185486507895941e+18)
+time     , item ,    cost,   totalcook
+(9844582376.0, 'Alchemy Lab', 7571359.102551612, 1.185486507895941e+18)
+time     , item ,    cost,   totalcook
+(9844582376.0, 'Alchemy Lab', 8707062.967934353, 1.185486507895941e+18)
+time     , item ,    cost,   totalcook
+(9844582376.0, 'Alchemy Lab', 10013122.413124505, 1.185486507895941e+18)
+time     , item ,    cost,   totalcook
+(9844582376.0, 'Alchemy Lab', 11515090.775093181, 1.185486507895941e+18)
+time     , item ,    cost,   totalcook
+(9844582376.0, 'Alchemy Lab', 13242354.391357157, 1.185486507895941e+18)
+time     , item ,    cost,   totalcook
+(9844582376.0, 'Alchemy Lab', 15228707.55006073, 1.185486507895941e+18)
+time     , item ,    cost,   totalcook
+(9844582376.0, 'Alchemy Lab', 17513013.68256984, 1.185486507895941e+18)
+time     , item ,    cost,   totalcook
+(9844582376.0, 'Alchemy Lab', 20139965.734955315, 1.185486507895941e+18)
+time     , item ,    cost,   totalcook
+(9844582377.0, 'Alchemy Lab', 23160960.59519861, 1.1854865080245286e+18)
+time     , item ,    cost,   totalcook
+(9844582377.0, 'Alchemy Lab', 26635104.6844784, 1.1854865080245286e+18)
+time     , item ,    cost,   totalcook
+(9844582377.0, 'Alchemy Lab', 30630370.387150157, 1.1854865080245286e+18)
+time     , item ,    cost,   totalcook
+(9844582377.0, 'Alchemy Lab', 35224925.945222676, 1.1854865080245286e+18)
+time     , item ,    cost,   totalcook
+(9844582378.0, 'Alchemy Lab', 40508664.83700608, 1.1854865081531177e+18)
+time     , item ,    cost,   totalcook
+(9844582378.0, 'Alchemy Lab', 46584964.56255698, 1.1854865081531177e+18)
+time     , item ,    cost,   totalcook
+(9844582378.0, 'Alchemy Lab', 53572709.24694052, 1.1854865081531177e+18)
+time     , item ,    cost,   totalcook
+(9844582379.0, 'Alchemy Lab', 61608615.6339816, 1.185486508281708e+18)
+time     , item ,    cost,   totalcook
+(9844582379.0, 'Alchemy Lab', 70849907.97907883, 1.185486508281708e+18)
+time     , item ,    cost,   totalcook
+(9844582380.0, 'Alchemy Lab', 81477394.17594065, 1.1854865084102991e+18)
+time     , item ,    cost,   totalcook
+(9844582381.0, 'Alchemy Lab', 93699003.30233173, 1.1854865085388905e+18)
+time     , item ,    cost,   totalcook
+(9844582382.0, 'Portal', 110352909.12012835, 1.1854865086674824e+18)
+time     , item ,    cost,   totalcook
+(9844582383.0, 'Portal', 126905845.48814759, 1.185486508796081e+18)
+time     , item ,    cost,   totalcook
+(9844582384.0, 'Portal', 145941722.31136972, 1.185486508924686e+18)
+time     , item ,    cost,   totalcook
+(9844582385.0, 'Portal', 167832980.65807515, 1.185486509053298e+18)
+time     , item ,    cost,   totalcook
+(9844582387.0, 'Portal', 193007927.7567864, 1.185486509310535e+18)
+time     , item ,    cost,   totalcook
+(9844582388.0, 'Portal', 221959116.92030436, 1.18548650943916e+18)
+time     , item ,    cost,   totalcook
+(9844582390.0, 'Portal', 255252984.45835, 1.185486509696424e+18)
+time     , item ,    cost,   totalcook
+(9844582393.0, 'Portal', 293540932.1271025, 1.1854865100823396e+18)
+time     , item ,    cost,   totalcook
+(9844582395.0, 'Portal', 337572071.9461678, 1.18548651033963e+18)
+time     , item ,    cost,   totalcook
+(9844582398.0, 'Portal', 388207882.73809296, 1.1854865107255857e+18)
+time     , item ,    cost,   totalcook
+(9844582402.0, 'Portal', 446439065.14880687, 1.18548651124022e+18)
+time     , item ,    cost,   totalcook
+(9844582406.0, 'Portal', 513404924.92112786, 1.1854865117548808e+18)
+time     , item ,    cost,   totalcook
+(9844582410.0, 'Portal', 590415663.659297, 1.1854865122695683e+18)
+time     , item ,    cost,   totalcook
+(9844582416.0, 'Portal', 678978013.2081915, 1.1854865130416394e+18)
+time     , item ,    cost,   totalcook
+(9844582422.0, 'Portal', 780824715.1894202, 1.1854865138137505e+18)
+time     , item ,    cost,   totalcook
+(9844582429.0, 'Portal', 897948422.4678332, 1.1854865147145935e+18)
+time     , item ,    cost,   totalcook
+(9844582437.0, 'Portal', 1032640685.838008, 1.1854865157441818e+18)
+time     , item ,    cost,   totalcook
+(9844582446.0, 'Portal', 1187536788.713709, 1.1854865169025285e+18)
+time     , item ,    cost,   totalcook
+(9844582456.0, 'Portal', 1365667307.0207653, 1.185486518189647e+18)
+time     , item ,    cost,   totalcook
+(9844582469.0, 'Portal', 1570517403.07388, 1.185486519862988e+18)
+time     , item ,    cost,   totalcook
+(9844582483.0, 'Portal', 1806095013.5349617, 1.1854865216651407e+18)
+time     , item ,    cost,   totalcook
+(9844582499.0, 'Portal', 2077009265.5652058, 1.1854865237248507e+18)
+time     , item ,    cost,   totalcook
+(9844582517.0, 'Portal', 2388560655.3999863, 1.1854865260421443e+18)
+time     , item ,    cost,   totalcook
+(9844582539.0, 'Portal', 2746844753.709984, 1.1854865288745385e+18)
+time     , item ,    cost,   totalcook
+(9844582566.0, 'Time Machine', 3533972337.115099, 1.1854865323508388e+18)
+time     , item ,    cost,   totalcook
+(9844582598.0, 'Time Machine', 4064068187.6823635, 1.1854865364740588e+18)
+time     , item ,    cost,   totalcook
+(9844582634.0, 'Time Machine', 4673678415.834718, 1.1854865411162368e+18)
+time     , item ,    cost,   totalcook
+(9844582676.0, 'Time Machine', 5374730178.209925, 1.1854865465362593e+18)
+time     , item ,    cost,   totalcook
+(9844582723.0, 'Time Machine', 6180939704.941413, 1.1854865526061647e+18)
+time     , item ,    cost,   totalcook
+(9844582778.0, 'Time Machine', 7108080660.682624, 1.1854865597146775e+18)
+time     , item ,    cost,   totalcook
+(9844582842.0, 'Time Machine', 8174292759.785017, 1.1854865679927224e+18)
+time     , item ,    cost,   totalcook
+(9844582914.0, 'Time Machine', 9400436673.75277, 1.185486577312634e+18)
+time     , item ,    cost,   totalcook
+(9844582998.0, 'Time Machine', 10810502174.815683, 1.1854865881941606e+18)
+time     , item ,    cost,   totalcook
+(9844583094.0, 'Time Machine', 12432077501.038034, 1.1854866006396723e+18)
+time     , item ,    cost,   totalcook
+(9844583204.0, 'Time Machine', 14296889126.193739, 1.1854866149110188e+18)
+time     , item ,    cost,   totalcook
+(9844583330.0, 'Time Machine', 16441422495.122799, 1.1854866312706417e+18)
+time     , item ,    cost,   totalcook
+(9844583476.0, 'Time Machine', 18907635869.391216, 1.18548665024145e+18)
+time     , item ,    cost,   totalcook
+(9844583643.0, 'Time Machine', 21743781249.799896, 1.18548667195743e+18)
+time     , item ,    cost,   totalcook
+(9844583835.0, 'Time Machine', 25005348437.26988, 1.185486696943268e+18)
+time     , item ,    cost,   totalcook
+(9844584056.0, 'Time Machine', 28756150702.86036, 1.1854867257248358e+18)
+time     , item ,    cost,   totalcook
+(9844584310.0, 'Time Machine', 33069573308.28941, 1.18548675882919e+18)
+time     , item ,    cost,   totalcook
+(9844584601.0, 'Time Machine', 38030009304.53282, 1.1854867967845724e+18)
+time     , item ,    cost,   totalcook
+(9844584937.0, 'Time Machine', 43734510700.21274, 1.185486840642529e+18)
+time     , item ,    cost,   totalcook
+(9844585322.0, 'Time Machine', 50294687305.244644, 1.1854868909344622e+18)
+time     , item ,    cost,   totalcook
+(9844585764.0, 'Time Machine', 57838890401.031334, 1.1854869487158682e+18)
+time     , item ,    cost,   totalcook
+(9844586272.0, 'Time Machine', 66514723961.18603, 1.1854870151754396e+18)
+time     , item ,    cost,   totalcook
+(9844586857.0, 'Time Machine', 76491932555.36392, 1.185487091766385e+18)
+time     , item ,    cost,   totalcook
+(9844587528.0, 'Time Machine', 87965722438.6685, 1.1854871796831252e+18)
+time     , item ,    cost,   totalcook
+(9844588300.0, 'Time Machine', 101160580804.46877, 1.1854872809094812e+18)
+time     , item ,    cost,   totalcook
+(9844589186.0, 'Time Machine', 116334667925.13907, 1.1854873971712765e+18)
+time     , item ,    cost,   totalcook
+(9844590205.0, 'Time Machine', 133784868113.90991, 1.1854875309861048e+18)
+time     , item ,    cost,   totalcook
+(9844591376.0, 'Time Machine', 153852598330.9964, 1.1854876848771894e+18)
+time     , item ,    cost,   totalcook
+(9844592721.0, 'Time Machine', 176930488080.64584, 1.185487861767935e+18)
+time     , item ,    cost,   totalcook
+(9844594267.0, 'Time Machine', 203470061292.7427, 1.185488065246345e+18)
+time     , item ,    cost,   totalcook
+(9844596043.0, 'Time Machine', 233990570486.65408, 1.1854882991718525e+18)
+time     , item ,    cost,   totalcook
+(9844598085.0, 'Time Machine', 269089156059.65216, 1.1854885683351785e+18)
+time     , item ,    cost,   totalcook
+(9844600431.0, 'Time Machine', 309452529468.6, 1.185488877801535e+18)
+time     , item ,    cost,   totalcook
+(9844603126.0, 'Time Machine', 355870408888.88995, 1.1854892335714708e+18)
+time     , item ,    cost,   totalcook
+(9844606224.0, 'Time Machine', 409250970222.2234, 1.1854896428478572e+18)
+time     , item ,    cost,   totalcook
+(9844609784.0, 'Time Machine', 470638615755.5569, 1.1854901135106081e+18)
+time     , item ,    cost,   totalcook
+(9844613875.0, 'Time Machine', 541234408118.8904, 1.1854906547801933e+18)
+time     , item ,    cost,   totalcook
+(9844618576.0, 'Time Machine', 622419569336.7239, 1.1854912772215885e+18)
+time     , item ,    cost,   totalcook
+(9844623978.0, 'Time Machine', 715782504737.2324, 1.185491993013236e+18)
+time     , item ,    cost,   totalcook
+(9844630185.0, 'Time Machine', 823149880447.8173, 1.1854928160843889e+18)
+time     , item ,    cost,   totalcook
+(9844637319.0, 'Time Machine', 946622362514.9897, 1.185493762783759e+18)
+time     , item ,    cost,   totalcook
+(9844645516.0, 'Time Machine', 1088615716892.2382, 1.1854948513554243e+18)
+time     , item ,    cost,   totalcook
+(9844654936.0, 'Time Machine', 1251908074426.0737, 1.1854961032733573e+18)
+time     , item ,    cost,   totalcook
+(9844665761.0, 'Time Machine', 1439694285589.9846, 1.1854975429849116e+18)
+time     , item ,    cost,   totalcook
+(9844678200.0, 'Time Machine', 1655648428428.4822, 1.185499198584999e+18)
+time     , item ,    cost,   totalcook
+(9844692495.0, 'Time Machine', 1903995692692.7544, 1.1855011026259343e+18)
+time     , item ,    cost,   totalcook
+(9844708921.0, 'Time Machine', 2189595046596.6675, 1.1855032921304732e+18)
+time     , item ,    cost,   totalcook
+(9844727798.0, 'Time Machine', 2518034303586.1675, 1.1855058102055736e+18)
+time     , item ,    cost,   totalcook
+(9844749490.0, 'Time Machine', 2895739449124.0923, 1.1855087059266819e+18)
+time     , item ,    cost,   totalcook
+(9844774418.0, 'Time Machine', 3330100366492.706, 1.1855120360918024e+18)
+time     , item ,    cost,   totalcook
+(9844803063.0, 'Time Machine', 3829615421466.612, 1.1855158656450865e+18)
+time     , item ,    cost,   totalcook
+(9844835981.0, 'Time Machine', 4404057734686.604, 1.1855202697073692e+18)
+time     , item ,    cost,   totalcook
+(9844873809.0, 'Time Machine', 5064666394889.594, 1.1855253344091249e+18)
+time     , item ,    cost,   totalcook
+(9844917279.0, 'Time Machine', 5824366354123.032, 1.1855311587982764e+18)
+time     , item ,    cost,   totalcook
+(9844967232.0, 'Time Machine', 6698021307241.486, 1.1855378567549181e+18)
+time     , item ,    cost,   totalcook
+(9845024636.0, 'Time Machine', 7702724503327.709, 1.1855455594496893e+18)
+time     , item ,    cost,   totalcook
+(9845090603.0, 'Time Machine', 8858133178826.865, 1.1855544176767516e+18)
+time     , item ,    cost,   totalcook
+(9845166408.0, 'Time Machine', 10186853155650.895, 1.1855646044639258e+18)
+time     , item ,    cost,   totalcook
+(9845253521.0, 'Time Machine', 11714881128998.527, 1.1855763194404544e+18)
+time     , item ,    cost,   totalcook
+(9845353626.0, 'Time Machine', 13472113298348.305, 1.1855897914710392e+18)
+time     , item ,    cost,   totalcook
+(9845468663.0, 'Time Machine', 15492930293100.549, 1.18560528439685e+18)
+time     , item ,    cost,   totalcook
+(9845600859.0, 'Time Machine', 17816869837065.63, 1.1856231013147323e+18)
+time     , item ,    cost,   totalcook
+(9845752772.0, 'Time Machine', 20489400312625.473, 1.1856435906251026e+18)
+time     , item ,    cost,   totalcook
+(9845927345.0, 'Time Machine', 23562810359519.293, 1.1856671534513124e+18)
+time     , item ,    cost,   totalcook
+(9846127957.0, 'Time Machine', 27097231913447.184, 1.18569425068046e+18)
+time     , item ,    cost,   totalcook
+(9846358493.0, 'Time Machine', 31161816700464.258, 1.1857254125976481e+18)
+time     , item ,    cost,   totalcook
+(9846623415.0, 'Time Machine', 35836089205533.89, 1.185761248690079e+18)
+time     , item ,    cost,   totalcook
+(9846927853.0, 'Time Machine', 41211502586363.97, 1.185802460193594e+18)
+time     , item ,    cost,   totalcook
+(9847277701.0, 'Time Machine', 47393227974318.56, 1.185849853361491e+18)
+time     , item ,    cost,   totalcook
+(9847679734.0, 'Time Machine', 54502212170466.34, 1.1859043556276462e+18)
+time     , item ,    cost,   totalcook
+(9848141735.0, 'Time Machine', 62677543996036.29, 1.1859670331840714e+18)
+time     , item ,    cost,   totalcook
+(9848672649.0, 'Time Machine', 72079175595441.73, 1.186039112286817e+18)
+time     , item ,    cost,   totalcook
+(9849282757.0, 'Time Machine', 82891051934757.98, 1.1861220033551839e+18)
+time     , item ,    cost,   totalcook
+(9849983871.0, 'Time Machine', 95324709724971.67, 1.1862173280120566e+18)
+time     , item ,    cost,   totalcook
+(9850789568.0, 'Time Machine', 109623416183717.42, 1.1863269515268908e+18)
+time     , item ,    cost,   totalcook
+(9851715446.0, 'Time Machine', 126066928611275.03, 1.1864530183697592e+18)
+time     , item ,    cost,   totalcook
+(9852779435.0, 'Time Machine', 144976967902966.28, 1.1865979953860068e+18)
+time     , item ,    cost,   totalcook
+(9854002136.0, 'Time Machine', 166723513088411.22, 1.186764718942475e+18)
+time     , item ,    cost,   totalcook
+(9855407224.0, 'Time Machine', 191732040051672.88, 1.1869564509742863e+18)
+time     , item ,    cost,   totalcook
+(9857021906.0, 'Time Machine', 220491846059423.78, 1.1871769427411282e+18)
+time     , item ,    cost,   totalcook
+(9858877449.0, 'Time Machine', 253565622968337.34, 1.187430508375421e+18)
+time     , item ,    cost,   totalcook
+(9861009782.0, 'Time Machine', 291600466413587.94, 1.1877221088108623e+18)
+time     , item ,    cost,   totalcook
+(9863460196.0, 'Time Machine', 335340536375626.1, 1.1880574494196127e+18)
+time     , item ,    cost,   totalcook
+(9866276139.0, 'Time Machine', 385641616831970.0, 1.1884430910053458e+18)
+time     , item ,    cost,   totalcook
+(9869512140.0, 'Time Machine', 443487859356765.44, 1.1888865788680983e+18)
+time     , item ,    cost,   totalcook
+(9873230861.0, 'Time Machine', 510011038260280.2, 1.1893965898802166e+18)
+time     , item ,    cost,   totalcook
+(9877504313.0, 'Time Machine', 586512693999322.1, 1.1899831025900933e+18)
+time     , item ,    cost,   totalcook
+(9882415249.0, 'Time Machine', 674489598099220.4, 1.1906575922363574e+18)
+time     , item ,    cost,   totalcook
+(9888058766.0, 'Time Machine', 775663037814103.4, 1.1914332551755876e+18)
+time     , item ,    cost,   totalcook
+(9894544152.0, 'Time Machine', 892012493486218.8, 1.192325267798911e+18)
+time     , item ,    cost,   totalcook
+(9901996993.0, 'Time Machine', 1025814367509151.5, 1.1933510821472814e+18)
+time     , item ,    cost,   totalcook
+(9910561614.0, 'Time Machine', 1179686522635524.2, 1.1945307685722327e+18)
+time     , item ,    cost,   totalcook
+(9920403872.0, 'Time Machine', 1356639501030852.8, 1.1958874081211213e+18)
+time     , item ,    cost,   totalcook
+(9931714364.0, 'Time Machine', 1560135426185480.5, 1.1974475435454781e+18)
+time     , item ,    cost,   totalcook
+(9944712123.0, 'Time Machine', 1794155740113302.5, 1.199241699255011e+18)
+time     , item ,    cost,   totalcook
+(9959648859.0, 'Time Machine', 2063279101130297.8, 1.2013049783801055e+18)
+time     , item ,    cost,   totalcook
+(9976813833.0, 'Time Machine', 2372770966299842.0, 1.203677749430318e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Time Machine', 2728686611244818.0, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Cursor', 429.37764286682125, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Cursor', 493.7842892968444, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Cursor', 567.8519326913711, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Cursor', 653.0297225950767, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Cursor', 750.9841809843381, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Cursor', 863.6318081319887, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Cursor', 993.1765793517869, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Cursor', 1142.153066254555, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Cursor', 1313.4760261927381, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Cursor', 1510.4974301216487, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Cursor', 1737.072044639896, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Cursor', 1997.63285133588, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Grandma', 2489.145755749687, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Grandma', 2862.51761911214, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Grandma', 3291.8952619789607, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Grandma', 3785.6795512758044, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Grandma', 4353.531483967175, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Grandma', 5006.561206562251, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Grandma', 5757.545387546588, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Grandma', 6621.177195678576, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Farm', 8183.268696473046, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Farm', 9410.759000944001, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Farm', 10822.3728510856, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Farm', 12445.728778748438, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Farm', 14312.588095560703, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Farm', 16459.476309894806, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Farm', 18928.397756379025, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Farm', 21767.657419835876, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Farm', 25032.806032811255, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Factory', 32283.7920137015, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Factory', 37126.36081575672, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Factory', 42695.314938120224, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Factory', 49099.61217883825, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Factory', 56464.55400566399, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Factory', 64934.23710651358, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Factory', 74674.37267249062, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Factory', 85875.5285733642, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Factory', 98756.85785936881, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Factory', 113570.38653827412, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Factory', 130605.94451901523, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Mine', 163665.37392946085, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Mine', 188215.18001887997, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Mine', 216447.45702171195, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Mine', 248914.5755749687, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Mine', 286251.761911214, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Mine', 329189.52619789605, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Mine', 378567.95512758044, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Mine', 435353.1483967175, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Mine', 500656.1206562251, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Mine', 575754.5387546588, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Mine', 662117.7195678576, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Mine', 761435.3775030362, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Mine', 875650.6841284916, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Mine', 1006998.2867477653, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Mine', 1158048.02975993, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Shipment', 1514271.8205103218, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Shipment', 1741412.59358687, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Shipment', 2002624.4826249003, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Shipment', 2303018.155018635, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Shipment', 2648470.8782714303, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539458.0, 'Shipment', 3045741.5100121447, 1.206406435927188e+18)
+time     , item ,    cost,   totalcook
+(9996539459.0, 'Shipment', 3502602.736513966, 1.2064064360656202e+18)
+time     , item ,    cost,   totalcook
+(9996539459.0, 'Shipment', 4027993.146991061, 1.2064064360656202e+18)
+time     , item ,    cost,   totalcook
+(9996539459.0, 'Shipment', 4632192.11903972, 1.2064064360656202e+18)
+time     , item ,    cost,   totalcook
+(9996539459.0, 'Shipment', 5327020.936895678, 1.2064064360656202e+18)
+time     , item ,    cost,   totalcook
+(9996539459.0, 'Shipment', 6126074.077430029, 1.2064064360656202e+18)
+time     , item ,    cost,   totalcook
+(9996539459.0, 'Shipment', 7044985.189044533, 1.2064064360656202e+18)
+time     , item ,    cost,   totalcook
+(9996539459.0, 'Shipment', 8101732.967401213, 1.2064064360656202e+18)
+time     , item ,    cost,   totalcook
+(9996539459.0, 'Shipment', 9316992.912511393, 1.2064064360656202e+18)
+time     , item ,    cost,   totalcook
+(9996539459.0, 'Shipment', 10714541.849388102, 1.2064064360656202e+18)
+time     , item ,    cost,   totalcook
+(9996539459.0, 'Shipment', 12321723.126796316, 1.2064064360656202e+18)
+time     , item ,    cost,   totalcook
+(9996539459.0, 'Shipment', 14169981.595815763, 1.2064064360656202e+18)
+time     , item ,    cost,   totalcook
+(9996539459.0, 'Shipment', 16295478.835188126, 1.2064064360656202e+18)
+time     , item ,    cost,   totalcook
+(9996539459.0, 'Shipment', 18739800.660466343, 1.2064064360656202e+18)
+time     , item ,    cost,   totalcook
+(9996539460.0, 'Shipment', 21550770.759536292, 1.2064064362040538e+18)
+time     , item ,    cost,   totalcook
+(9996539460.0, 'Shipment', 24783386.373466734, 1.2064064362040538e+18)
+time     , item ,    cost,   totalcook
+(9996539460.0, 'Shipment', 28500894.329486743, 1.2064064362040538e+18)
+time     , item ,    cost,   totalcook
+(9996539460.0, 'Shipment', 32776028.478909753, 1.2064064362040538e+18)
+time     , item ,    cost,   totalcook
+(9996539460.0, 'Shipment', 37692432.75074621, 1.2064064362040538e+18)
+time     , item ,    cost,   totalcook
+(9996539461.0, 'Shipment', 43346297.663358144, 1.2064064363424878e+18)
+time     , item ,    cost,   totalcook
+(9996539461.0, 'Shipment', 49848242.31286186, 1.2064064363424878e+18)
+time     , item ,    cost,   totalcook
+(9996539461.0, 'Shipment', 57325478.659791134, 1.2064064363424878e+18)
+time     , item ,    cost,   totalcook
+(9996539462.0, 'Shipment', 65924300.4587598, 1.206406436480922e+18)
+time     , item ,    cost,   totalcook
+(9996539463.0, 'Shipment', 75812945.52757376, 1.2064064366193564e+18)
+time     , item ,    cost,   totalcook
+(9996539463.0, 'Shipment', 87184887.35670982, 1.2064064366193564e+18)
+time     , item ,    cost,   totalcook
+(9996539464.0, 'Alchemy Lab', 107753853.79768148, 1.206406436757791e+18)
+time     , item ,    cost,   totalcook
+(9996539465.0, 'Alchemy Lab', 123916931.8673337, 1.206406436896226e+18)
+time     , item ,    cost,   totalcook
+(9996539466.0, 'Alchemy Lab', 142504471.64743373, 1.2064064370346614e+18)
+time     , item ,    cost,   totalcook
+(9996539467.0, 'Alchemy Lab', 163880142.39454877, 1.2064064371730972e+18)
+time     , item ,    cost,   totalcook
+(9996539468.0, 'Alchemy Lab', 188462163.75373107, 1.2064064373115333e+18)
+time     , item ,    cost,   totalcook
+(9996539470.0, 'Alchemy Lab', 216731488.31679073, 1.2064064375884065e+18)
+time     , item ,    cost,   totalcook
+(9996539472.0, 'Alchemy Lab', 249241211.56430933, 1.2064064378652805e+18)
+time     , item ,    cost,   totalcook
+(9996539474.0, 'Alchemy Lab', 286627393.2989557, 1.2064064381421553e+18)
+time     , item ,    cost,   totalcook
+(9996539476.0, 'Alchemy Lab', 329621502.293799, 1.2064064384190308e+18)
+time     , item ,    cost,   totalcook
+(9996539479.0, 'Alchemy Lab', 379064727.6378688, 1.2064064388343452e+18)
+time     , item ,    cost,   totalcook
+(9996539482.0, 'Alchemy Lab', 435924436.78354913, 1.206406439249661e+18)
+time     , item ,    cost,   totalcook
+(9996539486.0, 'Alchemy Lab', 501313102.3010815, 1.2064064398034168e+18)
+time     , item ,    cost,   totalcook
+(9996539490.0, 'Alchemy Lab', 576510067.6462437, 1.2064064403571743e+18)
+time     , item ,    cost,   totalcook
+(9996539495.0, 'Alchemy Lab', 662986577.7931802, 1.2064064410493732e+18)
+time     , item ,    cost,   totalcook
+(9996539500.0, 'Alchemy Lab', 762434564.4621572, 1.2064064417415741e+18)
+time     , item ,    cost,   totalcook
+(9996539507.0, 'Alchemy Lab', 876799749.1314808, 1.2064064427106583e+18)
+time     , item ,    cost,   totalcook
+(9996539514.0, 'Alchemy Lab', 1008319711.5012028, 1.2064064436797453e+18)
+time     , item ,    cost,   totalcook
+(9996539522.0, 'Alchemy Lab', 1159567668.2263832, 1.2064064447872763e+18)
+time     , item ,    cost,   totalcook
+(9996539532.0, 'Alchemy Lab', 1333502818.4603405, 1.206406446171694e+18)
+time     , item ,    cost,   totalcook
+(9996539543.0, 'Alchemy Lab', 1533528241.2293916, 1.2064064476945582e+18)
+time     , item ,    cost,   totalcook
+(9996539556.0, 'Alchemy Lab', 1763557477.4138002, 1.2064064494943117e+18)
+time     , item ,    cost,   totalcook
+(9996539570.0, 'Alchemy Lab', 2028091099.02587, 1.2064064514325135e+18)
+time     , item ,    cost,   totalcook
+(9996539587.0, 'Alchemy Lab', 2332304763.8797503, 1.206406453786051e+18)
+time     , item ,    cost,   totalcook
+(9996539606.0, 'Alchemy Lab', 2682150478.4617124, 1.206406456416483e+18)
+time     , item ,    cost,   totalcook
+(9996539629.0, 'Portal', 3158871466.766481, 1.2064064596006994e+18)
+time     , item ,    cost,   totalcook
+(9996539656.0, 'Portal', 3632702186.7814527, 1.2064064633388723e+18)
+time     , item ,    cost,   totalcook
+(9996539686.0, 'Portal', 4177607514.7986703, 1.2064064674925978e+18)
+time     , item ,    cost,   totalcook
+(9996539720.0, 'Portal', 4804248642.018471, 1.20640647220038e+18)
+time     , item ,    cost,   totalcook
+(9996539760.0, 'Portal', 5524885938.321241, 1.2064064777392138e+18)
+time     , item ,    cost,   totalcook
+(9996539806.0, 'Portal', 6353618829.0694275, 1.2064064841091794e+18)
+time     , item ,    cost,   totalcook
+(9996539859.0, 'Portal', 7306661653.429841, 1.206406491448841e+18)
+time     , item ,    cost,   totalcook
+(9996539920.0, 'Portal', 8402660901.444317, 1.2064064998967826e+18)
+time     , item ,    cost,   totalcook
+(9996539989.0, 'Portal', 9663060036.660963, 1.206406509453111e+18)
+time     , item ,    cost,   totalcook
+(9996540070.0, 'Portal', 11112519042.160107, 1.2064065206719496e+18)
+time     , item ,    cost,   totalcook
+(9996540162.0, 'Portal', 12779396898.484121, 1.2064065334149473e+18)
+time     , item ,    cost,   totalcook
+(9996540268.0, 'Portal', 14696306433.256739, 1.2064065480978035e+18)
+time     , item ,    cost,   totalcook
+(9996540390.0, 'Portal', 16900752398.245249, 1.206406564997753e+18)
+time     , item ,    cost,   totalcook
+(9996540530.0, 'Portal', 19435865257.982033, 1.206406584392071e+18)
+time     , item ,    cost,   totalcook
+(9996540692.0, 'Portal', 22351245046.679337, 1.2064066068351473e+18)
+time     , item ,    cost,   totalcook
+(9996540877.0, 'Portal', 25703931803.681236, 1.2064066324658194e+18)
+time     , item ,    cost,   totalcook
+(9996541091.0, 'Portal', 29559521574.23342, 1.2064066621156992e+18)
+time     , item ,    cost,   totalcook
+(9996541336.0, 'Portal', 33993449810.36843, 1.2064066960622881e+18)
+time     , item ,    cost,   totalcook
+(9996541618.0, 'Portal', 39092467281.92369, 1.2064067351373847e+18)
+time     , item ,    cost,   totalcook
+(9996541942.0, 'Portal', 44956337374.21224, 1.2064067800343363e+18)
+time     , item ,    cost,   totalcook
+(9996542315.0, 'Portal', 51699787980.34408, 1.2064068317237453e+18)
+time     , item ,    cost,   totalcook
+(9996542745.0, 'Portal', 59454756177.39568, 1.2064068913149384e+18)
+time     , item ,    cost,   totalcook
+(9996543238.0, 'Portal', 68372969604.00503, 1.2064069596402207e+18)
+time     , item ,    cost,   totalcook
+(9996543805.0, 'Portal', 78628915044.60577, 1.2064070382250043e+18)
+time     , item ,    cost,   totalcook
+(9996544458.0, 'Portal', 90423252301.29663, 1.206407128733526e+18)
+time     , item ,    cost,   totalcook
+(9996545208.0, 'Portal', 103986740146.49112, 1.2064072326916516e+18)
+time     , item ,    cost,   totalcook
+(9996546070.0, 'Portal', 119584751168.46478, 1.2064073521799368e+18)
+time     , item ,    cost,   totalcook
+(9996547063.0, 'Portal', 137522463843.7345, 1.2064074898337336e+18)
+time     , item ,    cost,   totalcook
+(9996548203.0, 'Portal', 158150833420.29465, 1.2064076478728822e+18)
+time     , item ,    cost,   totalcook
+(9996549515.0, 'Portal', 181873458433.33884, 1.2064078297652797e+18)
+time     , item ,    cost,   totalcook
+(9996551024.0, 'Portal', 209154477198.33966, 1.2064080389793234e+18)
+time     , item ,    cost,   totalcook
+(9996552759.0, 'Portal', 240527648778.09058, 1.2064082795385137e+18)
+time     , item ,    cost,   totalcook
+(9996554753.0, 'Portal', 276606796094.80414, 1.2064085560215608e+18)
+time     , item ,    cost,   totalcook
+(9996557047.0, 'Portal', 318097815509.0247, 1.2064088741171487e+18)
+time     , item ,    cost,   totalcook
+(9996559685.0, 'Portal', 365812487835.3784, 1.2064092399307932e+18)
+time     , item ,    cost,   totalcook
+(9996562719.0, 'Portal', 420684361010.6851, 1.2064096606783104e+18)
+time     , item ,    cost,   totalcook
+(9996566207.0, 'Portal', 483787015162.28784, 1.2064101444086607e+18)
+time     , item ,    cost,   totalcook
+(9996570219.0, 'Portal', 556355067436.631, 1.206410700836255e+18)
+time     , item ,    cost,   totalcook
+(9996574832.0, 'Portal', 639808327552.1256, 1.206411340647786e+18)
+time     , item ,    cost,   totalcook
+(9996580136.0, 'Portal', 735779576684.9443, 1.2064120763346406e+18)
+time     , item ,    cost,   totalcook
+(9996586237.0, 'Portal', 846146513187.6859, 1.2064129226093786e+18)
+time     , item ,    cost,   totalcook
+(9996593251.0, 'Portal', 973068490165.8387, 1.2064138955738542e+18)
+time     , item ,    cost,   totalcook
+(9996601318.0, 'Portal', 1119028763690.7144, 1.2064150146616215e+18)
+time     , item ,    cost,   totalcook
+(9996610594.0, 'Portal', 1286883078244.3213, 1.2064163015287273e+18)
+time     , item ,    cost,   totalcook
+(9996621261.0, 'Portal', 1479915539980.9695, 1.206417781441513e+18)
+time     , item ,    cost,   totalcook
+(9996633528.0, 'Portal', 1701902870978.1147, 1.2064194834160512e+18)
+time     , item ,    cost,   totalcook
+(9996647633.0, 'Portal', 1957188301624.8318, 1.2064214404963686e+18)
+time     , item ,    cost,   totalcook
+(9996663854.0, 'Portal', 2250766546868.556, 1.2064236912815506e+18)
+time     , item ,    cost,   totalcook
+(9996682507.0, 'Portal', 2588381528898.8394, 1.2064262796492797e+18)
+time     , item ,    cost,   totalcook
+(9996703957.0, 'Portal', 2976638758233.665, 1.206429256283328e+18)
+time     , item ,    cost,   totalcook
+(9996728624.0, 'Portal', 3423134571968.7144, 1.2064326795075282e+18)
+time     , item ,    cost,   totalcook
+(9996756989.0, 'Portal', 3936604757764.021, 1.2064366161199457e+18)
+time     , item ,    cost,   totalcook
+(9996789607.0, 'Portal', 4527095471428.624, 1.2064411431987853e+18)
+time     , item ,    cost,   totalcook
+(9996827116.0, 'Portal', 5206159792142.917, 1.2064463493535414e+18)
+time     , item ,    cost,   totalcook
+(9996870249.0, 'Portal', 5987083760964.3545, 1.2064523363928614e+18)
+time     , item ,    cost,   totalcook
+(9996919850.0, 'Portal', 6885146325109.007, 1.2064592215480517e+18)
+time     , item ,    cost,   totalcook
+(9996976888.0, 'Portal', 7917918273875.357, 1.2064671394194816e+18)
+time     , item ,    cost,   totalcook
+(9997042479.0, 'Portal', 9105606014956.66, 1.2064762450340485e+18)
+time     , item ,    cost,   totalcook
+(9997117905.0, 'Portal', 10471446917200.158, 1.206486716486882e+18)
+time     , item ,    cost,   totalcook
+(9997204641.0, 'Portal', 12042163954780.182, 1.2064987586943826e+18)
+time     , item ,    cost,   totalcook
+(9997304382.0, 'Portal', 13848488547997.207, 1.2065126071481592e+18)
+time     , item ,    cost,   totalcook
+(9997419079.0, 'Portal', 15925761830196.787, 1.2065285329195254e+18)
+time     , item ,    cost,   totalcook
+(9997550974.0, 'Portal', 18314626104726.305, 1.2065468475263355e+18)
+time     , item ,    cost,   totalcook
+(9997702646.0, 'Portal', 21061820020435.25, 1.206567909328496e+18)
+time     , item ,    cost,   totalcook
+(9997877061.0, 'Portal', 24221093023500.535, 1.206592130480491e+18)
+time     , item ,    cost,   totalcook
+(9998077628.0, 'Portal', 27854256977025.613, 1.2066199847188388e+18)
+time     , item ,    cost,   totalcook
+(9998308269.0, 'Portal', 32032395523579.453, 1.2066520170957957e+18)
+time     , item ,    cost,   totalcook
+(9998573494.0, 'Portal', 36837254852116.37, 1.2066888544098437e+18)
+time     , item ,    cost,   totalcook
+(9998878487.0, 'Portal', 42362843079933.82, 1.2067312171665518e+18)
+time     , item ,    cost,   totalcook
+(9999229213.0, 'Portal', 48717269541923.89, 1.2067799344592911e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Portal', 56024859973212.47, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Cursor', 2297.277779036262, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Cursor', 2641.869445891701, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Cursor', 3038.1498627754563, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Cursor', 3493.8723421917744, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Cursor', 4017.95319352054, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Cursor', 4620.646172548621, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Cursor', 5313.743098430913, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Cursor', 6110.804563195549, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Grandma', 7614.353775030362, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Grandma', 8756.506841284916, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Grandma', 10069.982867477653, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Grandma', 11580.480297599299, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Grandma', 13317.552342239193, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Grandma', 15315.185193575071, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Grandma', 17612.46297261133, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Grandma', 20254.33241850303, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Grandma', 23292.48228127848, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Farm', 28787.72693773294, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Farm', 33105.88597839288, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Farm', 38071.76887515181, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Farm', 43782.53420642458, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Farm', 50349.91433738826, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Farm', 57902.401487996496, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Farm', 66587.76171119597, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Farm', 76575.92596787536, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Farm', 88062.31486305666, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Farm', 101271.66209251515, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Farm', 116462.41140639242, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Factory', 150196.83619686752, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Factory', 172726.36162639764, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Factory', 198635.31587035727, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Factory', 228430.61325091083, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Factory', 262695.2052385474, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Factory', 302099.4860243295, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Factory', 347414.4089279789, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Factory', 399526.5702671757, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Factory', 459455.555807252, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Factory', 528373.8891783397, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Factory', 607629.9725550907, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Factory', 698774.4684383542, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Factory', 803590.6387041073, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Factory', 924129.2345097233, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Factory', 1062748.6196861817, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 1331755.2342239195, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 1531518.5193575073, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 1761246.2972611333, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 2025433.2418503033, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 2329248.2281278484, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 2678635.4623470255, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 3080430.781699079, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 3542495.3989539407, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 4073869.7087970315, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 4684950.165116586, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 5387692.689884073, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 6195846.593366683, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 7125223.582371686, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 8194007.119727438, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 9423108.187686553, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 10836574.415839536, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 12462060.578215465, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 14331369.664947784, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632529.0, 'Mine', 16481075.11468995, 1.2068359594091576e+18)
+time     , item ,    cost,   totalcook
+(9999632530.0, 'Mine', 18953236.38189344, 1.206835959548076e+18)
+time     , item ,    cost,   totalcook
+(9999632530.0, 'Mine', 21796221.839177456, 1.206835959548076e+18)
+time     , item ,    cost,   totalcook
+(9999632530.0, 'Mine', 25065655.11505407, 1.206835959548076e+18)
+time     , item ,    cost,   totalcook
+(9999632530.0, 'Mine', 28825503.38231218, 1.206835959548076e+18)
+time     , item ,    cost,   totalcook
+(9999632530.0, 'Mine', 33149328.889659002, 1.206835959548076e+18)
+time     , item ,    cost,   totalcook
+(9999632531.0, 'Mine', 38121728.22310785, 1.2068359596869947e+18)
+time     , item ,    cost,   totalcook
+(9999632531.0, 'Mine', 43839987.45657402, 1.2068359596869947e+18)
+time     , item ,    cost,   totalcook
+(9999632531.0, 'Mine', 50415985.57506012, 1.2068359596869947e+18)
+time     , item ,    cost,   totalcook
+(9999632532.0, 'Mine', 57978383.41131914, 1.2068359598259133e+18)
+time     , item ,    cost,   totalcook
+(9999632532.0, 'Mine', 66675140.923017, 1.2068359598259133e+18)
+time     , item ,    cost,   totalcook
+(9999632533.0, 'Mine', 76676412.06146954, 1.2068359599648323e+18)
+time     , item ,    cost,   totalcook
+(9999632534.0, 'Shipment', 100262620.46021628, 1.2068359601037512e+18)
+time     , item ,    cost,   totalcook
+(9999632534.0, 'Shipment', 115302013.52924871, 1.2068359601037512e+18)
+time     , item ,    cost,   totalcook
+(9999632535.0, 'Shipment', 132597315.55863601, 1.2068359602426703e+18)
+time     , item ,    cost,   totalcook
+(9999632536.0, 'Shipment', 152486912.8924314, 1.2068359603815895e+18)
+time     , item ,    cost,   totalcook
+(9999632538.0, 'Shipment', 175359949.8262961, 1.206835960659428e+18)
+time     , item ,    cost,   totalcook
+(9999632539.0, 'Shipment', 201663942.3002405, 1.2068359607983475e+18)
+time     , item ,    cost,   totalcook
+(9999632541.0, 'Shipment', 231913533.64527655, 1.2068359610761864e+18)
+time     , item ,    cost,   totalcook
+(9999632543.0, 'Shipment', 266700563.692068, 1.2068359613540255e+18)
+time     , item ,    cost,   totalcook
+(9999632545.0, 'Shipment', 306705648.24587816, 1.2068359616318648e+18)
+time     , item ,    cost,   totalcook
+(9999632547.0, 'Shipment', 352711495.48275983, 1.2068359619097044e+18)
+time     , item ,    cost,   totalcook
+(9999632550.0, 'Shipment', 405618219.80517375, 1.206835962326464e+18)
+time     , item ,    cost,   totalcook
+(9999632554.0, 'Shipment', 466460952.7759498, 1.206835962882144e+18)
+time     , item ,    cost,   totalcook
+(9999632558.0, 'Shipment', 536430095.6923422, 1.2068359634378243e+18)
+time     , item ,    cost,   totalcook
+(9999632562.0, 'Shipment', 616894610.0461935, 1.206835963993505e+18)
+time     , item ,    cost,   totalcook
+(9999632567.0, 'Shipment', 709428801.5531224, 1.2068359646881065e+18)
+time     , item ,    cost,   totalcook
+(9999632573.0, 'Shipment', 815843121.7860907, 1.2068359655216287e+18)
+time     , item ,    cost,   totalcook
+(9999632580.0, 'Shipment', 938219590.0540043, 1.206835966494072e+18)
+time     , item ,    cost,   totalcook
+(9999632588.0, 'Shipment', 1078952528.562105, 1.2068359676054367e+18)
+time     , item ,    cost,   totalcook
+(9999632596.0, 'Shipment', 1240795407.8464205, 1.206835968716802e+18)
+time     , item ,    cost,   totalcook
+(9999632607.0, 'Shipment', 1426914719.0233834, 1.2068359702449306e+18)
+time     , item ,    cost,   totalcook
+(9999632619.0, 'Shipment', 1640951926.8768907, 1.206835971911981e+18)
+time     , item ,    cost,   totalcook
+(9999632632.0, 'Shipment', 1887094715.9084241, 1.2068359737179535e+18)
+time     , item ,    cost,   totalcook
+(9999632648.0, 'Shipment', 2170158923.2946877, 1.2068359759406907e+18)
+time     , item ,    cost,   totalcook
+(9999632666.0, 'Shipment', 2495682761.788891, 1.2068359784412718e+18)
+time     , item ,    cost,   totalcook
+(9999632688.0, 'Alchemy Lab', 3084473050.230969, 1.2068359814975398e+18)
+time     , item ,    cost,   totalcook
+(9999632713.0, 'Alchemy Lab', 3547144007.765614, 1.2068359849705815e+18)
+time     , item ,    cost,   totalcook
+(9999632743.0, 'Alchemy Lab', 4079215608.9304557, 1.2068359891382436e+18)
+time     , item ,    cost,   totalcook
+(9999632777.0, 'Alchemy Lab', 4691097950.270023, 1.2068359938616074e+18)
+time     , item ,    cost,   totalcook
+(9999632815.0, 'Alchemy Lab', 5394762642.810527, 1.2068359991406764e+18)
+time     , item ,    cost,   totalcook
+(9999632860.0, 'Alchemy Lab', 6203977039.232105, 1.2068360053922235e+18)
+time     , item ,    cost,   totalcook
+(9999632911.0, 'Alchemy Lab', 7134573595.11692, 1.2068360124773307e+18)
+time     , item ,    cost,   totalcook
+(9999632971.0, 'Alchemy Lab', 8204759634.384458, 1.206836020812775e+18)
+time     , item ,    cost,   totalcook
+(9999633038.0, 'Alchemy Lab', 9435473579.542126, 1.2068360301207142e+18)
+time     , item ,    cost,   totalcook
+(9999633117.0, 'Alchemy Lab', 10850794616.473444, 1.2068360410957788e+18)
+time     , item ,    cost,   totalcook
+(9999633206.0, 'Alchemy Lab', 12478413808.94446, 1.2068360534601277e+18)
+time     , item ,    cost,   totalcook
+(9999633310.0, 'Alchemy Lab', 14350175880.286127, 1.2068360679083973e+18)
+time     , item ,    cost,   totalcook
+(9999633428.0, 'Alchemy Lab', 16502702262.329044, 1.2068360843016735e+18)
+time     , item ,    cost,   totalcook
+(9999633565.0, 'Alchemy Lab', 18978107601.6784, 1.2068361033345997e+18)
+time     , item ,    cost,   totalcook
+(9999633722.0, 'Alchemy Lab', 21824823741.930157, 1.2068361251461181e+18)
+time     , item ,    cost,   totalcook
+(9999633903.0, 'Alchemy Lab', 25098547303.219677, 1.206836150291954e+18)
+time     , item ,    cost,   totalcook
+(9999634111.0, 'Alchemy Lab', 28863329398.702625, 1.206836179188909e+18)
+time     , item ,    cost,   totalcook
+(9999634349.0, 'Alchemy Lab', 33192828808.508015, 1.2068362122537897e+18)
+time     , item ,    cost,   totalcook
+(9999634624.0, 'Alchemy Lab', 38171753129.78421, 1.2068362504591188e+18)
+time     , item ,    cost,   totalcook
+(9999634940.0, 'Alchemy Lab', 43897516099.25184, 1.2068362943606415e+18)
+time     , item ,    cost,   totalcook
+(9999635304.0, 'Alchemy Lab', 50482143514.13961, 1.2068363449308956e+18)
+time     , item ,    cost,   totalcook
+(9999635721.0, 'Alchemy Lab', 58054465041.260544, 1.2068364028645678e+18)
+time     , item ,    cost,   totalcook
+(9999636202.0, 'Alchemy Lab', 66762634797.44962, 1.2068364696899313e+18)
+time     , item ,    cost,   totalcook
+(9999636755.0, 'Alchemy Lab', 76777030017.06706, 1.206836546518481e+18)
+time     , item ,    cost,   totalcook
+(9999637390.0, 'Alchemy Lab', 88293584519.62712, 1.206836634739583e+18)
+time     , item ,    cost,   totalcook
+(9999638121.0, 'Alchemy Lab', 101537622197.57118, 1.2068367362983409e+18)
+time     , item ,    cost,   totalcook
+(9999638961.0, 'Alchemy Lab', 116768265527.20685, 1.206836853000943e+18)
+time     , item ,    cost,   totalcook
+(9999639928.0, 'Alchemy Lab', 134283505356.28787, 1.2068369873482542e+18)
+time     , item ,    cost,   totalcook
+(9999641040.0, 'Alchemy Lab', 154426031159.73105, 1.2068371418411602e+18)
+time     , item ,    cost,   totalcook
+(9999642318.0, 'Alchemy Lab', 177589935833.6907, 1.2068373193973673e+18)
+time     , item ,    cost,   totalcook
+(9999643788.0, 'Alchemy Lab', 204228426208.7443, 1.2068375236292733e+18)
+time     , item ,    cost,   totalcook
+(9999645478.0, 'Alchemy Lab', 234862690140.0559, 1.2068377584271747e+18)
+time     , item ,    cost,   totalcook
+(9999647422.0, 'Alchemy Lab', 270092093661.06427, 1.2068380285150057e+18)
+time     , item ,    cost,   totalcook
+(9999649658.0, 'Alchemy Lab', 310605907710.2239, 1.2068383391724792e+18)
+time     , item ,    cost,   totalcook
+(9999652229.0, 'Alchemy Lab', 357196793866.75745, 1.2068386963740285e+18)
+time     , item ,    cost,   totalcook
+(9999655185.0, 'Alchemy Lab', 410776312946.77106, 1.206839107066685e+18)
+time     , item ,    cost,   totalcook
+(9999658586.0, 'Alchemy Lab', 472392759888.7867, 1.2068395795868966e+18)
+time     , item ,    cost,   totalcook
+(9999662496.0, 'Alchemy Lab', 543251673872.1046, 1.2068401228269279e+18)
+time     , item ,    cost,   totalcook
+(9999666992.0, 'Alchemy Lab', 624739424952.9203, 1.2068407474852943e+18)
+time     , item ,    cost,   totalcook
+(9999672163.0, 'Alchemy Lab', 718450338695.8583, 1.206841465927846e+18)
+time     , item ,    cost,   totalcook
+(9999678110.0, 'Alchemy Lab', 826217889500.2369, 1.206842292187787e+18)
+time     , item ,    cost,   totalcook
+(9999684949.0, 'Alchemy Lab', 950150572925.2725, 1.206843242382508e+18)
+time     , item ,    cost,   totalcook
+(9999692813.0, 'Alchemy Lab', 1092673158864.0632, 1.2068443349914857e+18)
+time     , item ,    cost,   totalcook
+(9999701857.0, 'Alchemy Lab', 1256574132693.6726, 1.206845591551003e+18)
+time     , item ,    cost,   totalcook
+(9999712258.0, 'Alchemy Lab', 1445060252597.7234, 1.2068470366541834e+18)
+time     , item ,    cost,   totalcook
+(9999724219.0, 'Alchemy Lab', 1661819290487.3818, 1.2068486985067848e+18)
+time     , item ,    cost,   totalcook
+(9999737973.0, 'Alchemy Lab', 1911092184060.489, 1.2068506094829978e+18)
+time     , item ,    cost,   totalcook
+(9999753791.0, 'Alchemy Lab', 2197756011669.5623, 1.2068528072370156e+18)
+time     , item ,    cost,   totalcook
+(9999771982.0, 'Alchemy Lab', 2527419413419.9966, 1.2068553347030945e+18)
+time     , item ,    cost,   totalcook
+(9999792901.0, 'Alchemy Lab', 2906532325432.9956, 1.2068582412071416e+18)
+time     , item ,    cost,   totalcook
+(9999816958.0, 'Alchemy Lab', 3342512174247.945, 1.2068615837172595e+18)
+time     , item ,    cost,   totalcook
+(9999844624.0, 'Alchemy Lab', 3843889000385.136, 1.206865427677485e+18)
+time     , item ,    cost,   totalcook
+(9999876439.0, 'Alchemy Lab', 4420472350442.906, 1.206869848119423e+18)
+time     , item ,    cost,   totalcook
+(9999913026.0, 'Alchemy Lab', 5083543203009.342, 1.206874931607551e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Alchemy Lab', 5846074683460.742, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Cursor', 7027.425247674881, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Cursor', 8081.539034826113, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Cursor', 9293.769890050029, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Cursor', 10687.835373557533, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Cursor', 12291.010679591162, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Cursor', 14134.662281529834, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Cursor', 16254.861623759309, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Cursor', 18693.090867323204, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Cursor', 21497.054497421683, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Grandma', 26786.35462347025, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Grandma', 30804.307816990786, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Grandma', 35424.9539895394, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Grandma', 40738.6970879703, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Grandma', 46849.50165116584, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Grandma', 53876.92689884071, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Grandma', 61958.46593366681, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Grandma', 71252.23582371682, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Grandma', 81940.07119727434, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Grandma', 94231.08187686549, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Grandma', 108365.7441583953, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Farm', 133931.7731173513, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Farm', 154021.53908495395, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Farm', 177124.76994769703, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Farm', 203693.48543985156, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Farm', 234247.50825582928, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Farm', 269384.63449420367, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Farm', 309792.3296683342, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Farm', 356261.1791185843, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Farm', 409700.3559863719, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Farm', 471155.4093843277, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Farm', 541828.7207919768, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Farm', 623103.0289107732, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Farm', 716568.4832473892, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Farm', 824053.7557344976, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Farm', 947661.8190946721, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Factory', 1222160.9126391087, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Factory', 1405485.0495349749, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Factory', 1616307.806965221, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Factory', 1858753.978010004, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Factory', 2137567.0747115044, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Factory', 2458202.13591823, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Factory', 2826932.456305964, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Factory', 3250972.324751858, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Factory', 3738618.173464637, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Factory', 4299410.899484332, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Factory', 4944322.534406981, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Factory', 5685970.914568028, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Factory', 6538866.551753232, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Factory', 7519696.534516216, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Factory', 8647651.014693648, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Factory', 9944798.666897694, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955102.0, 'Factory', 11436518.466932347, 1.2068807777677238e+18)
+time     , item ,    cost,   totalcook
+(9999955103.0, 'Factory', 13151996.236972198, 1.2068807779066673e+18)
+time     , item ,    cost,   totalcook
+(9999955103.0, 'Factory', 15124795.672518026, 1.2068807779066673e+18)
+time     , item ,    cost,   totalcook
+(9999955103.0, 'Factory', 17393515.02339573, 1.2068807779066673e+18)
+time     , item ,    cost,   totalcook
+(9999955103.0, 'Factory', 20002542.276905086, 1.2068807779066673e+18)
+time     , item ,    cost,   totalcook
+(9999955103.0, 'Factory', 23002923.618440848, 1.2068807779066673e+18)
+time     , item ,    cost,   totalcook
+(9999955103.0, 'Factory', 26453362.16120697, 1.2068807779066673e+18)
+time     , item ,    cost,   totalcook
+(9999955104.0, 'Factory', 30421366.485388014, 1.2068807780456108e+18)
+time     , item ,    cost,   totalcook
+(9999955104.0, 'Factory', 34984571.458196215, 1.2068807780456108e+18)
+time     , item ,    cost,   totalcook
+(9999955104.0, 'Factory', 40232257.176925644, 1.2068807780456108e+18)
+time     , item ,    cost,   totalcook
+(9999955104.0, 'Factory', 46267095.75346449, 1.2068807780456108e+18)
+time     , item ,    cost,   totalcook
+(9999955105.0, 'Factory', 53207160.11648416, 1.2068807781845542e+18)
+time     , item ,    cost,   totalcook
+(9999955105.0, 'Factory', 61188234.133956775, 1.2068807781845542e+18)
+time     , item ,    cost,   totalcook
+(9999955106.0, 'Factory', 70366469.25405028, 1.206880778323498e+18)
+time     , item ,    cost,   totalcook
+(9999955106.0, 'Mine', 88177873.87068996, 1.206880778323498e+18)
+time     , item ,    cost,   totalcook
+(9999955107.0, 'Mine', 101404554.95129344, 1.2068807784624417e+18)
+time     , item ,    cost,   totalcook
+(9999955108.0, 'Mine', 116615238.19398744, 1.2068807786013855e+18)
+time     , item ,    cost,   totalcook
+(9999955109.0, 'Mine', 134107523.92308556, 1.2068807787403292e+18)
+time     , item ,    cost,   totalcook
+(9999955110.0, 'Mine', 154223652.51154837, 1.206880778879273e+18)
+time     , item ,    cost,   totalcook
+(9999955111.0, 'Mine', 177357200.3882806, 1.2068807790182167e+18)
+time     , item ,    cost,   totalcook
+(9999955113.0, 'Mine', 203960780.44652268, 1.2068807792961044e+18)
+time     , item ,    cost,   totalcook
+(9999955114.0, 'Mine', 234554897.51350108, 1.2068807794350484e+18)
+time     , item ,    cost,   totalcook
+(9999955116.0, 'Mine', 269738132.14052624, 1.2068807797129364e+18)
+time     , item ,    cost,   totalcook
+(9999955119.0, 'Mine', 310198851.96160513, 1.2068807801297684e+18)
+time     , item ,    cost,   totalcook
+(9999955121.0, 'Mine', 356728679.75584584, 1.2068807804076564e+18)
+time     , item ,    cost,   totalcook
+(9999955124.0, 'Mine', 410237981.71922266, 1.2068807808244887e+18)
+time     , item ,    cost,   totalcook
+(9999955128.0, 'Mine', 471773678.97710603, 1.2068807813802652e+18)
+time     , item ,    cost,   totalcook
+(9999955131.0, 'Mine', 542539730.8236719, 1.2068807817970977e+18)
+time     , item ,    cost,   totalcook
+(9999955136.0, 'Mine', 623920690.4472227, 1.2068807824918188e+18)
+time     , item ,    cost,   totalcook
+(9999955141.0, 'Mine', 717508794.0143061, 1.20688078318654e+18)
+time     , item ,    cost,   totalcook
+(9999955147.0, 'Mine', 825135113.1164519, 1.2068807840202056e+18)
+time     , item ,    cost,   totalcook
+(9999955154.0, 'Mine', 948905380.0839195, 1.2068807849928159e+18)
+time     , item ,    cost,   totalcook
+(9999955162.0, 'Mine', 1091241187.0965073, 1.2068807861043707e+18)
+time     , item ,    cost,   totalcook
+(9999955171.0, 'Mine', 1254927365.1609833, 1.2068807873548703e+18)
+time     , item ,    cost,   totalcook
+(9999955181.0, 'Mine', 1443166469.9351306, 1.2068807887443146e+18)
+time     , item ,    cost,   totalcook
+(9999955193.0, 'Mine', 1659641440.4254, 1.2068807904116483e+18)
+time     , item ,    cost,   totalcook
+(9999955207.0, 'Mine', 1908587656.48921, 1.2068807923568714e+18)
+time     , item ,    cost,   totalcook
+(9999955223.0, 'Mine', 2194875804.962591, 1.2068807945799844e+18)
+time     , item ,    cost,   totalcook
+(9999955243.0, 'Shipment', 2870035176.0572243, 1.2068807973588764e+18)
+time     , item ,    cost,   totalcook
+(9999955267.0, 'Shipment', 3300540452.4658074, 1.206880800693549e+18)
+time     , item ,    cost,   totalcook
+(9999955294.0, 'Shipment', 3795621520.335678, 1.2068808044450586e+18)
+time     , item ,    cost,   totalcook
+(9999955326.0, 'Shipment', 4364964748.386029, 1.2068808088912952e+18)
+time     , item ,    cost,   totalcook
+(9999955362.0, 'Shipment', 5019709460.643933, 1.206880813893315e+18)
+time     , item ,    cost,   totalcook
+(9999955403.0, 'Shipment', 5772665879.740522, 1.2068808195900639e+18)
+time     , item ,    cost,   totalcook
+(9999955451.0, 'Shipment', 6638565761.7016, 1.2068808262594332e+18)
+time     , item ,    cost,   totalcook
+(9999955506.0, 'Shipment', 7634350625.95684, 1.2068808339014244e+18)
+time     , item ,    cost,   totalcook
+(9999955569.0, 'Shipment', 8779503219.850365, 1.2068808426549842e+18)
+time     , item ,    cost,   totalcook
+(9999955642.0, 'Shipment', 10096428702.827919, 1.2068808527980055e+18)
+time     , item ,    cost,   totalcook
+(9999955726.0, 'Shipment', 11610893008.252106, 1.2068808644694356e+18)
+time     , item ,    cost,   totalcook
+(9999955822.0, 'Shipment', 13352526959.48992, 1.2068808778082225e+18)
+time     , item ,    cost,   totalcook
+(9999955932.0, 'Shipment', 15355406003.413406, 1.20688089309226e+18)
+time     , item ,    cost,   totalcook
+(9999956059.0, 'Shipment', 17658716903.925415, 1.2068809107383887e+18)
+time     , item ,    cost,   totalcook
+(9999956205.0, 'Shipment', 20307524439.514225, 1.206880931024504e+18)
+time     , item ,    cost,   totalcook
+(9999956373.0, 'Shipment', 23353653105.441357, 1.206880954367448e+18)
+time     , item ,    cost,   totalcook
+(9999956567.0, 'Shipment', 26856701071.257557, 1.20688098132301e+18)
+time     , item ,    cost,   totalcook
+(9999956789.0, 'Shipment', 30885206231.94619, 1.2068810121690877e+18)
+time     , item ,    cost,   totalcook
+(9999957045.0, 'Shipment', 35517987166.73811, 1.206881047739365e+18)
+time     , item ,    cost,   totalcook
+(9999957339.0, 'Shipment', 40845685241.748825, 1.2068810885896348e+18)
+time     , item ,    cost,   totalcook
+(9999957677.0, 'Shipment', 46972538028.01115, 1.206881135553584e+18)
+time     , item ,    cost,   totalcook
+(9999958065.0, 'Shipment', 54018418732.212814, 1.2068811894649021e+18)
+time     , item ,    cost,   totalcook
+(9999958513.0, 'Shipment', 62121181542.04473, 1.2068812517130668e+18)
+time     , item ,    cost,   totalcook
+(9999959027.0, 'Shipment', 71439358773.35144, 1.2068813231317711e+18)
+time     , item ,    cost,   totalcook
+(9999959618.0, 'Shipment', 82155262589.35416, 1.2068814052494456e+18)
+time     , item ,    cost,   totalcook
+(9999960298.0, 'Shipment', 94478551977.75728, 1.2068814997334707e+18)
+time     , item ,    cost,   totalcook
+(9999961080.0, 'Shipment', 108650334774.42087, 1.2068816083901778e+18)
+time     , item ,    cost,   totalcook
+(9999961979.0, 'Shipment', 124947884990.58398, 1.2068817333037967e+18)
+time     , item ,    cost,   totalcook
+(9999963013.0, 'Shipment', 143690067739.17157, 1.206881876975404e+18)
+time     , item ,    cost,   totalcook
+(9999964203.0, 'Shipment', 165243577900.0473, 1.206882042322924e+18)
+time     , item ,    cost,   totalcook
+(9999965570.0, 'Shipment', 190030114585.05438, 1.2068822322642875e+18)
+time     , item ,    cost,   totalcook
+(9999967143.0, 'Shipment', 218534631772.81253, 1.206882450829013e+18)
+time     , item ,    cost,   totalcook
+(9999968952.0, 'Shipment', 251314826538.7344, 1.2068827021855757e+18)
+time     , item ,    cost,   totalcook
+(9999971032.0, 'Shipment', 289012050519.54456, 1.2068829911971988e+18)
+time     , item ,    cost,   totalcook
+(9999973424.0, 'Shipment', 332363858097.4762, 1.2068833235608049e+18)
+time     , item ,    cost,   totalcook
+(9999976174.0, 'Shipment', 382218436812.0976, 1.2068837056680684e+18)
+time     , item ,    cost,   totalcook
+(9999979338.0, 'Shipment', 439551202333.9122, 1.2068841453001597e+18)
+time     , item ,    cost,   totalcook
+(9999982976.0, 'Shipment', 505483882683.99896, 1.2068846507940598e+18)
+time     , item ,    cost,   totalcook
+(9999987159.0, 'Shipment', 581306465086.5988, 1.2068852320151995e+18)
+time     , item ,    cost,   totalcook
+(9999991971.0, 'Shipment', 668502434849.5885, 1.2068859006353613e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Shipment', 768777800077.0267, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Cursor', 24721.612672034935, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Cursor', 28429.854572840173, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Cursor', 32694.332758766195, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Cursor', 37598.48267258112, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Cursor', 43238.25507346829, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Cursor', 49723.99333448853, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Cursor', 57182.5923346618, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Cursor', 65759.98118486107, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Cursor', 75623.97836259022, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Cursor', 86967.57511697874, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Cursor', 100012.71138452554, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Grandma', 124620.60578215458, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Grandma', 143313.69664947776, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Grandma', 164810.75114689942, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Grandma', 189532.3638189343, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Grandma', 217962.21839177443, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Grandma', 250656.55115054056, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Grandma', 288255.03382312163, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Grandma', 331493.28889658983, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Grandma', 381217.28223107825, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Grandma', 438399.87456573994, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Grandma', 504159.85575060087, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Grandma', 579783.834113191, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Grandma', 666751.4092301696, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Grandma', 766764.120614695, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Grandma', 881778.7387068992, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Farm', 1089811.0919588727, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Farm', 1253282.7557527036, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Farm', 1441275.169115609, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997503.0, 'Farm', 1657466.4444829503, 1.2068866692989932e+18)
+time     , item ,    cost,   totalcook
+(9999997504.0, 'Farm', 1906086.4111553926, 1.2068866694379418e+18)
+time     , item ,    cost,   totalcook
+(9999997504.0, 'Farm', 2191999.3728287015, 1.2068866694379418e+18)
+time     , item ,    cost,   totalcook
+(9999997504.0, 'Farm', 2520799.2787530064, 1.2068866694379418e+18)
+time     , item ,    cost,   totalcook
+(9999997504.0, 'Farm', 2898919.170565957, 1.2068866694379418e+18)
+time     , item ,    cost,   totalcook
+(9999997504.0, 'Farm', 3333757.0461508506, 1.2068866694379418e+18)
+time     , item ,    cost,   totalcook
+(9999997504.0, 'Farm', 3833820.6030734777, 1.2068866694379418e+18)
+time     , item ,    cost,   totalcook
+(9999997504.0, 'Farm', 4408893.693534499, 1.2068866694379418e+18)
+time     , item ,    cost,   totalcook
+(9999997504.0, 'Farm', 5070227.747564673, 1.2068866694379418e+18)
+time     , item ,    cost,   totalcook
+(9999997504.0, 'Farm', 5830761.909699374, 1.2068866694379418e+18)
+time     , item ,    cost,   totalcook
+(9999997504.0, 'Farm', 6705376.19615428, 1.2068866694379418e+18)
+time     , item ,    cost,   totalcook
+(9999997504.0, 'Farm', 7711182.625577421, 1.2068866694379418e+18)
+time     , item ,    cost,   totalcook
+(9999997504.0, 'Farm', 8867860.019414034, 1.2068866694379418e+18)
+time     , item ,    cost,   totalcook
+(9999997504.0, 'Farm', 10198039.022326138, 1.2068866694379418e+18)
+time     , item ,    cost,   totalcook
+(9999997504.0, 'Farm', 11727744.875675058, 1.2068866694379418e+18)
+time     , item ,    cost,   totalcook
+(9999997504.0, 'Farm', 13486906.607026316, 1.2068866694379418e+18)
+time     , item ,    cost,   totalcook
+(9999997504.0, 'Farm', 15509942.598080263, 1.2068866694379418e+18)
+time     , item ,    cost,   totalcook
+(9999997504.0, 'Farm', 17836433.987792302, 1.2068866694379418e+18)
+time     , item ,    cost,   totalcook
+(9999997505.0, 'Farm', 20511899.085961144, 1.2068866695768906e+18)
+time     , item ,    cost,   totalcook
+(9999997505.0, 'Farm', 23588683.948855314, 1.2068866695768906e+18)
+time     , item ,    cost,   totalcook
+(9999997505.0, 'Farm', 27126986.54118361, 1.2068866695768906e+18)
+time     , item ,    cost,   totalcook
+(9999997505.0, 'Farm', 31196034.52236115, 1.2068866695768906e+18)
+time     , item ,    cost,   totalcook
+(9999997505.0, 'Farm', 35875439.70071532, 1.2068866695768906e+18)
+time     , item ,    cost,   totalcook
+(9999997506.0, 'Farm', 41256755.65582261, 1.2068866697158395e+18)
+time     , item ,    cost,   totalcook
+(9999997506.0, 'Farm', 47445269.004196, 1.2068866697158395e+18)
+time     , item ,    cost,   totalcook
+(9999997506.0, 'Farm', 54562059.3548254, 1.2068866697158395e+18)
+time     , item ,    cost,   totalcook
+(9999997507.0, 'Farm', 62746368.258049205, 1.2068866698547884e+18)
+time     , item ,    cost,   totalcook
+(9999997507.0, 'Factory', 80921439.64215782, 1.2068866698547884e+18)
+time     , item ,    cost,   totalcook
+(9999997508.0, 'Factory', 93059655.58848149, 1.2068866699937372e+18)
+time     , item ,    cost,   totalcook
+(9999997509.0, 'Factory', 107018603.9267537, 1.206886670132686e+18)
+time     , item ,    cost,   totalcook
+(9999997510.0, 'Factory', 123071394.51576674, 1.206886670271635e+18)
+time     , item ,    cost,   totalcook
+(9999997511.0, 'Factory', 141532103.69313174, 1.2068866704105838e+18)
+time     , item ,    cost,   totalcook
+(9999997512.0, 'Factory', 162761919.2471015, 1.2068866705495327e+18)
+time     , item ,    cost,   totalcook
+(9999997513.0, 'Factory', 187176207.1341667, 1.2068866706884815e+18)
+time     , item ,    cost,   totalcook
+(9999997515.0, 'Factory', 215252638.20429167, 1.2068866709663793e+18)
+time     , item ,    cost,   totalcook
+(9999997517.0, 'Factory', 247540533.9349354, 1.206886671244277e+18)
+time     , item ,    cost,   totalcook
+(9999997519.0, 'Factory', 284671614.0251757, 1.2068866715221747e+18)
+time     , item ,    cost,   totalcook
+(9999997521.0, 'Factory', 327372356.128952, 1.2068866718000724e+18)
+time     , item ,    cost,   totalcook
+(9999997524.0, 'Factory', 376478209.5482948, 1.2068866722169193e+18)
+time     , item ,    cost,   totalcook
+(9999997527.0, 'Factory', 432949940.98053896, 1.2068866726337661e+18)
+time     , item ,    cost,   totalcook
+(9999997530.0, 'Factory', 497892432.12761974, 1.206886673050613e+18)
+time     , item ,    cost,   totalcook
+(9999997535.0, 'Factory', 572576296.9467627, 1.2068866737453578e+18)
+time     , item ,    cost,   totalcook
+(9999997539.0, 'Factory', 658462741.488777, 1.2068866743011538e+18)
+time     , item ,    cost,   totalcook
+(9999997545.0, 'Factory', 757232152.7120936, 1.2068866751348477e+18)
+time     , item ,    cost,   totalcook
+(9999997551.0, 'Factory', 870816975.6189076, 1.2068866759685417e+18)
+time     , item ,    cost,   totalcook
+(9999997558.0, 'Factory', 1001439521.9617436, 1.2068866769411848e+18)
+time     , item ,    cost,   totalcook
+(9999997567.0, 'Factory', 1151655450.256005, 1.2068866781917258e+18)
+time     , item ,    cost,   totalcook
+(9999997576.0, 'Factory', 1324403767.7944057, 1.2068866794422671e+18)
+time     , item ,    cost,   totalcook
+(9999997587.0, 'Factory', 1523064332.9635665, 1.2068866809707064e+18)
+time     , item ,    cost,   totalcook
+(9999997600.0, 'Factory', 1751523982.9081013, 1.206886682777044e+18)
+time     , item ,    cost,   totalcook
+(9999997614.0, 'Factory', 2014252580.3443162, 1.2068866847223306e+18)
+time     , item ,    cost,   totalcook
+(9999997632.0, 'Mine', 2524107175.7069798, 1.2068866872234138e+18)
+time     , item ,    cost,   totalcook
+(9999997653.0, 'Mine', 2902723252.0630264, 1.206886690141345e+18)
+time     , item ,    cost,   totalcook
+(9999997677.0, 'Mine', 3338131739.87248, 1.2068866934761244e+18)
+time     , item ,    cost,   totalcook
+(9999997705.0, 'Mine', 3838851500.8533516, 1.2068866973667016e+18)
+time     , item ,    cost,   totalcook
+(9999997737.0, 'Mine', 4414679225.981354, 1.2068867018130767e+18)
+time     , item ,    cost,   totalcook
+(9999997773.0, 'Mine', 5076881109.878556, 1.2068867068152502e+18)
+time     , item ,    cost,   totalcook
+(9999997815.0, 'Mine', 5838413276.360339, 1.206886712651121e+18)
+time     , item ,    cost,   totalcook
+(9999997863.0, 'Mine', 6714175267.814389, 1.2068867193206894e+18)
+time     , item ,    cost,   totalcook
+(9999997919.0, 'Mine', 7721301557.986547, 1.206886727101855e+18)
+time     , item ,    cost,   totalcook
+(9999997983.0, 'Mine', 8879496791.684528, 1.206886735994618e+18)
+time     , item ,    cost,   totalcook
+(9999998056.0, 'Mine', 10211421310.437206, 1.206886746137929e+18)
+time     , item ,    cost,   totalcook
+(9999998141.0, 'Mine', 11743134507.002787, 1.206886757948637e+18)
+time     , item ,    cost,   totalcook
+(9999998238.0, 'Mine', 13504604683.053204, 1.2068867714267428e+18)
+time     , item ,    cost,   totalcook
+(9999998350.0, 'Mine', 15530295385.511183, 1.2068867869890962e+18)
+time     , item ,    cost,   totalcook
+(9999998478.0, 'Mine', 17859839693.33786, 1.206886804774648e+18)
+time     , item ,    cost,   totalcook
+(9999998626.0, 'Mine', 20538815647.33854, 1.2068868253391985e+18)
+time     , item ,    cost,   totalcook
+(9999998796.0, 'Mine', 23619637994.43932, 1.2068868489606482e+18)
+time     , item ,    cost,   totalcook
+(9999998992.0, 'Mine', 27162583693.605217, 1.206886876194798e+18)
+time     , item ,    cost,   totalcook
+(9999999217.0, 'Mine', 31236971247.645996, 1.2068869074584996e+18)
+time     , item ,    cost,   totalcook
+(9999999475.0, 'Mine', 35922516934.79289, 1.2068869433075543e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Mine', 41310894475.011826, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Cursor', 115014.61809220436, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Cursor', 132266.810806035, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Cursor', 152106.83242694024, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Cursor', 174922.85729098125, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Cursor', 201161.28588462842, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Cursor', 231335.47876732267, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Cursor', 266035.80058242107, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Cursor', 305941.1706697842, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Cursor', 351832.3462702518, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Cursor', 404607.19821078953, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Cursor', 465298.27794240793, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Cursor', 535093.019633769, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Cursor', 615356.9725788344, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Cursor', 707660.5184656595, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Cursor', 813809.5962355083, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Grandma', 1014045.549512934, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Grandma', 1166152.381939874, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Grandma', 1341075.2392308551, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Grandma', 1542236.5251154832, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Grandma', 1773572.0038828056, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Grandma', 2039607.8044652264, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999772.0, 'Grandma', 2345548.97513501, 1.206886984575664e+18)
+time     , item ,    cost,   totalcook
+(9999999773.0, 'Grandma', 2697381.3214052618, 1.206886984714614e+18)
+time     , item ,    cost,   totalcook
+(9999999773.0, 'Grandma', 3101988.5196160506, 1.206886984714614e+18)
+time     , item ,    cost,   totalcook
+(9999999773.0, 'Grandma', 3567286.797558458, 1.206886984714614e+18)
+time     , item ,    cost,   totalcook
+(9999999773.0, 'Grandma', 4102379.8171922266, 1.206886984714614e+18)
+time     , item ,    cost,   totalcook
+(9999999773.0, 'Grandma', 4717736.78977106, 1.206886984714614e+18)
+time     , item ,    cost,   totalcook
+(9999999773.0, 'Grandma', 5425397.308236719, 1.206886984714614e+18)
+time     , item ,    cost,   totalcook
+(9999999773.0, 'Grandma', 6239206.904472226, 1.206886984714614e+18)
+time     , item ,    cost,   totalcook
+(9999999773.0, 'Grandma', 7175087.94014306, 1.206886984714614e+18)
+time     , item ,    cost,   totalcook
+(9999999773.0, 'Grandma', 8251351.131164518, 1.206886984714614e+18)
+time     , item ,    cost,   totalcook
+(9999999773.0, 'Grandma', 9489053.800839195, 1.206886984714614e+18)
+time     , item ,    cost,   totalcook
+(9999999773.0, 'Grandma', 10912411.870965073, 1.206886984714614e+18)
+time     , item ,    cost,   totalcook
+(9999999773.0, 'Grandma', 12549273.651609832, 1.206886984714614e+18)
+time     , item ,    cost,   totalcook
+(9999999773.0, 'Grandma', 14431664.699351307, 1.206886984714614e+18)
+time     , item ,    cost,   totalcook
+(9999999773.0, 'Grandma', 16596414.404254002, 1.206886984714614e+18)
+time     , item ,    cost,   totalcook
+(9999999773.0, 'Grandma', 19085876.564892102, 1.206886984714614e+18)
+time     , item ,    cost,   totalcook
+(9999999774.0, 'Grandma', 21948758.049625915, 1.206886984853564e+18)
+time     , item ,    cost,   totalcook
+(9999999774.0, 'Grandma', 25241071.7570698, 1.206886984853564e+18)
+time     , item ,    cost,   totalcook
+(9999999774.0, 'Grandma', 29027232.520630267, 1.206886984853564e+18)
+time     , item ,    cost,   totalcook
+(9999999774.0, 'Grandma', 33381317.398724806, 1.206886984853564e+18)
+time     , item ,    cost,   totalcook
+(9999999774.0, 'Grandma', 38388515.00853352, 1.206886984853564e+18)
+time     , item ,    cost,   totalcook
+(9999999775.0, 'Grandma', 44146792.25981355, 1.2068869849925138e+18)
+time     , item ,    cost,   totalcook
+(9999999775.0, 'Grandma', 50768811.09878557, 1.2068869849925138e+18)
+time     , item ,    cost,   totalcook
+(9999999776.0, 'Grandma', 58384132.763603404, 1.2068869851314637e+18)
+time     , item ,    cost,   totalcook
+(9999999776.0, 'Farm', 72158323.49675658, 1.2068869851314637e+18)
+time     , item ,    cost,   totalcook
+(9999999777.0, 'Farm', 82982072.02127007, 1.2068869852704136e+18)
+time     , item ,    cost,   totalcook
+(9999999777.0, 'Farm', 95429382.82446057, 1.2068869852704136e+18)
+time     , item ,    cost,   totalcook
+(9999999778.0, 'Farm', 109743790.24812964, 1.2068869854093635e+18)
+time     , item ,    cost,   totalcook
+(9999999779.0, 'Farm', 126205358.78534907, 1.2068869855483133e+18)
+time     , item ,    cost,   totalcook
+(9999999780.0, 'Farm', 145136162.6031514, 1.2068869856872632e+18)
+time     , item ,    cost,   totalcook
+(9999999781.0, 'Farm', 166906586.99362412, 1.206886985826213e+18)
+time     , item ,    cost,   totalcook
+(9999999783.0, 'Farm', 191942575.04266772, 1.206886986104113e+18)
+time     , item ,    cost,   totalcook
+(9999999784.0, 'Farm', 220733961.29906785, 1.2068869862430628e+18)
+time     , item ,    cost,   totalcook
+(9999999786.0, 'Farm', 253844055.49392802, 1.2068869865209628e+18)
+time     , item ,    cost,   totalcook
+(9999999788.0, 'Farm', 291920663.8180172, 1.2068869867988628e+18)
+time     , item ,    cost,   totalcook
+(9999999791.0, 'Farm', 335708763.3907197, 1.2068869872157128e+18)
+time     , item ,    cost,   totalcook
+(9999999793.0, 'Farm', 386065077.89932764, 1.2068869874936128e+18)
+time     , item ,    cost,   totalcook
+(9999999797.0, 'Farm', 443974839.5842267, 1.2068869880494126e+18)
+time     , item ,    cost,   totalcook
+(9999999800.0, 'Farm', 510571065.5218607, 1.2068869884662625e+18)
+time     , item ,    cost,   totalcook
+(9999999805.0, 'Farm', 587156725.3501397, 1.2068869891610125e+18)
+time     , item ,    cost,   totalcook
+(9999999809.0, 'Farm', 675230234.1526606, 1.2068869897168125e+18)
+time     , item ,    cost,   totalcook
+(9999999815.0, 'Farm', 776514769.2755597, 1.2068869905505124e+18)
+time     , item ,    cost,   totalcook
+(9999999821.0, 'Farm', 892991984.6668936, 1.2068869913842122e+18)
+time     , item ,    cost,   totalcook
+(9999999829.0, 'Farm', 1026940782.3669275, 1.206886992495812e+18)
+time     , item ,    cost,   totalcook
+(9999999837.0, 'Farm', 1180981899.7219665, 1.2068869936074122e+18)
+time     , item ,    cost,   totalcook
+(9999999847.0, 'Farm', 1358129184.6802614, 1.2068869949969124e+18)
+time     , item ,    cost,   totalcook
+(9999999858.0, 'Farm', 1561848562.3823004, 1.2068869965253624e+18)
+time     , item ,    cost,   totalcook
+(9999999871.0, 'Farm', 1796125846.7396452, 1.2068869983317125e+18)
+time     , item ,    cost,   totalcook
+(9999999888.0, 'Factory', 2316390467.3959637, 1.206887000693863e+18)
+time     , item ,    cost,   totalcook
+(9999999907.0, 'Factory', 2663849037.505358, 1.2068870033339133e+18)
+time     , item ,    cost,   totalcook
+(9999999929.0, 'Factory', 3063426393.1311617, 1.2068870063908142e+18)
+time     , item ,    cost,   totalcook
+(9999999954.0, 'Factory', 3522940352.100836, 1.2068870098645655e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Factory', 4051381404.915961, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 935881.0356708345, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 1076263.1910214596, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 1237702.6696746785, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 1423358.0701258802, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 1636861.780644762, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 1882391.0477414762, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 2164749.7049026974, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 2489462.160638102, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 2862881.4847338167, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 3292313.7074438888, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 3786160.7635604716, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 4354084.878094542, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 5007197.6098087225, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 5758277.25128003, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 6622018.838972034, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 7615321.664817838, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 8757619.914540512, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 10071262.90172159, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 11581952.336979827, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 13319245.1875268, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999984.0, 'Cursor', 15317131.965655819, 1.2068870140330673e+18)
+time     , item ,    cost,   totalcook
+(9999999985.0, 'Cursor', 17614701.76050419, 1.2068870141720174e+18)
+time     , item ,    cost,   totalcook
+(9999999985.0, 'Cursor', 20256907.024579816, 1.2068870141720174e+18)
+time     , item ,    cost,   totalcook
+(9999999985.0, 'Cursor', 23295443.078266785, 1.2068870141720174e+18)
+time     , item ,    cost,   totalcook
+(9999999985.0, 'Cursor', 26789759.5400068, 1.2068870141720174e+18)
+time     , item ,    cost,   totalcook
+(9999999985.0, 'Cursor', 30808223.47100782, 1.2068870141720174e+18)
+time     , item ,    cost,   totalcook
+(9999999986.0, 'Cursor', 35429456.99165899, 1.2068870143109676e+18)
+time     , item ,    cost,   totalcook
+(9999999986.0, 'Cursor', 40743875.54040784, 1.2068870143109676e+18)
+time     , item ,    cost,   totalcook
+(9999999986.0, 'Cursor', 46855456.871469006, 1.2068870143109676e+18)
+time     , item ,    cost,   totalcook
+(9999999987.0, 'Cursor', 53883775.40218935, 1.2068870144499177e+18)
+time     , item ,    cost,   totalcook
+(9999999987.0, 'Grandma', 67141752.6781439, 1.2068870144499177e+18)
+time     , item ,    cost,   totalcook
+(9999999988.0, 'Grandma', 77213015.57986549, 1.2068870145888678e+18)
+time     , item ,    cost,   totalcook
+(9999999988.0, 'Grandma', 88794967.9168453, 1.2068870145888678e+18)
+time     , item ,    cost,   totalcook
+(9999999989.0, 'Grandma', 102114213.1043721, 1.206887014727818e+18)
+time     , item ,    cost,   totalcook
+(9999999990.0, 'Grandma', 117431345.0700279, 1.2068870148667681e+18)
+time     , item ,    cost,   totalcook
+(9999999991.0, 'Grandma', 135046046.83053207, 1.2068870150057183e+18)
+time     , item ,    cost,   totalcook
+(9999999992.0, 'Grandma', 155302953.85511187, 1.2068870151446684e+18)
+time     , item ,    cost,   totalcook
+(9999999993.0, 'Grandma', 178598396.93337864, 1.2068870152836186e+18)
+time     , item ,    cost,   totalcook
+(9999999995.0, 'Grandma', 205388156.47338542, 1.2068870155615186e+18)
+time     , item ,    cost,   totalcook
+(9999999996.0, 'Grandma', 236196379.94439322, 1.2068870157004687e+18)
+time     , item ,    cost,   totalcook
+(9999999998.0, 'Grandma', 271625836.9360522, 1.2068870159783688e+18)
+time     , item ,    cost,   totalcook
+(9999999999.0, 'Cursor', 61966341.71251775, 1.206887016117319e+18)
+time     , item ,    cost,   totalcook
+(9999999999.0, 'Cursor', 71261292.96939541, 1.206887016117319e+18)
+time     , item ,    cost,   totalcook
+(10000000000.0, 'Cursor', 81950486.91480473, 1.206887016256269e+18)
