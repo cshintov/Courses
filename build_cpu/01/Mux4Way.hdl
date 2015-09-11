@@ -1,0 +1,25 @@
+// Helper chip for mux4way16
+
+/**
+ * out = a if sel == 00
+ *       b if sel == 01
+ *       c if sel == 10
+ *       d if sel == 11
+ */
+
+CHIP Mux4Way {
+    IN a, b, c, d, sel[2];
+    OUT out;
+
+    PARTS:
+    Not(in=sel[0],out=ns0);
+    Not(in=sel[1],out=ns1);
+    Not(in=ns0,out=s0);
+    Not(in=ns1,out=s1);
+
+    And3Way(a=a,b=ns0,c=ns1,out=t1);
+    And3Way(a=b,b=s0,c=ns1,out=t2);
+    And3Way(a=c,b=ns0,c=s1,out=t3);
+    And3Way(a=d,b=s0,c=s1,out=t4);
+    Or8Way(in[0]=t1,in[1]=t1,in[2]=t2,in[3]=t2,in[4]=t3,in[5]=t3,in[6]=t4,in[7]=t4,out=out);
+}
